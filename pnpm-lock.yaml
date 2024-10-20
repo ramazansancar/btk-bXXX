@@ -14,9 +14,6 @@ importers:
       fs:
         specifier: 0.0.1-security
         version: 0.0.1-security
-      pdf2json:
-        specifier: ^3.1.4
-        version: 3.1.4
       pdfreader:
         specifier: ^3.0.5
         version: 3.0.5
