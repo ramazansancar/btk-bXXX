@@ -132,10 +132,9 @@ async function processPDF() {
           item.text.includes("Kayıt Sayısı:") ||
           item.text.includes(new Date().getFullYear().toString())
         ) {
-          console.log("SKIPPED:", item.text);
           return;
         }
-        
+        if(item.text === 'Bos') item.text = 'Boş';
 
         // Accumulate row data based on Y position
         (rows[item.y] = rows[item.y] || []).push(item.text);
