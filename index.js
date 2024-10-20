@@ -48,14 +48,16 @@ async function appendToFile(filePath, content) {
 
 let count = 0;
 let totalCount = 0;
+let lastUpdatedDate = null;
 
 // Function to format rows for MD file
 const rowFormatter = (row) => {
-  totalCount++;
   if (row.length === 3) {
     count++;
+    totalCount++;
     return `| ${row.join(" | ")} |\n`;
   } else if (row.length === 2) {
+    totalCount++;
     return `| ${row[0]} |  | ${row[1]} |\n`;
   }
   return "";
@@ -100,7 +102,7 @@ async function processPDF() {
     new PdfReader().parseFileItems(pdfPath, function (err, item) {
       if (err) reject(err);
 
-      if (!item || item.page) {
+      if (!item || item?.page) {
         // End of page, print rows
         const rowStrings = Object.keys(rows)
           .sort((y1, y2) => parseFloat(y1) - parseFloat(y2)) // Sort by Y position
@@ -115,6 +117,9 @@ async function processPDF() {
         rows = {}; // Clear rows for the next page
         console.log("PAGE:", item?.page);
       } else if (item.text) {
+        if(item.text.includes(new Date().getFullYear().toString()) || item.text.includes(new Date().getFullYear() - 1)) {
+          lastUpdatedDate = item.text;
+        }
         // Filter unnecessary text
         if (
           [
@@ -127,8 +132,10 @@ async function processPDF() {
           item.text.includes("Kayıt Sayısı:") ||
           item.text.includes(new Date().getFullYear().toString())
         ) {
+          console.log("SKIPPED:", item.text);
           return;
         }
+        
 
         // Accumulate row data based on Y position
         (rows[item.y] = rows[item.y] || []).push(item.text);
@@ -153,7 +160,7 @@ async function processPDF() {
     if (line.includes("Son Güncellenme Tarihi:")) {
       headers[
         index
-      ] = `## Son Güncellenme Tarihi: ${new Date().toLocaleDateString()}`;
+      ] = `## Son Güncellenme Tarihi: ${lastUpdatedDate}`;
     }
     if (line.includes("Kayıt Sayısı:")) {
       headers[index] = `## Kayıt Sayısı: ${count}/${totalCount}`;

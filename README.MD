@@ -1,8 +1,8 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 20.10.2024
+## Son Güncellenme Tarihi: 19/10/2024
 
-## Kayıt Sayısı: 132/999
+## Kayıt Sayısı: 132/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
