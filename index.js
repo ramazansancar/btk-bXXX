@@ -90,7 +90,7 @@ async function processPDF() {
   await appendToFile(mdPath,`# Numara Taşınabilirliği Yönlendirme Kodları\n\n`);
   await appendToFile(mdPath, `## Son Güncellenme Tarihi: \n\n`);
   await appendToFile(mdPath, "## Kayıt Sayısı: \n\n");
-  await appendToFile(mdPath, "### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf\n\n");
+  await appendToFile(mdPath, "### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>\n\n");
   await appendToFile(mdPath,"| Önek | İşletmeci | Durum |\n| --- | --- | --- |\n");
 
   let rows = {}; // To store rows from the PDF
@@ -153,7 +153,7 @@ async function processPDF() {
     if (line.includes("Son Güncellenme Tarihi:")) {
       headers[
         index
-      ] = `## Son Güncellenme Tarihi: ${new Date().toLocaleString()}`;
+      ] = `## Son Güncellenme Tarihi: ${new Date().toLocaleDateString()}`;
     }
     if (line.includes("Kayıt Sayısı:")) {
       headers[index] = `## Kayıt Sayısı: ${count}/${totalCount}`;
