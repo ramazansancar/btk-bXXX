@@ -1,10 +1,11 @@
 {
   "name": "bkt-bxxx",
   "version": "1.0.0",
-  "description": "",
+  "description": "Software that retrieves BTK 'Number Portability Routing Codes' data and checks its current status daily",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +15,8 @@
     "axios": "^1.7.7",
     "fs": "0.0.1-security",
     "pdfreader": "^3.0.5"
+  },
+  "devDependencies":{
+    "nodemon": "^3.1.7"
   }
 }

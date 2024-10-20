@@ -1,10 +1,10 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 20.10.2024 08:53:13
+## Son Güncellenme Tarihi: 20.10.2024 09:07:16
 
 ## Kayıt Sayısı: 132/999
 
-Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari>
+### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari>
 
 | Önek | İşletmeci | Durum |
 | --- | --- | --- |
