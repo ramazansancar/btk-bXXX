@@ -64,21 +64,41 @@ const rowFormatter = (row) => {
 };
 
 // Main function
-async function processPDF() {
+const processPDF = async () => {
   // Step 1: Download PDF
-  const response = await axios({
-    method: "get",
-    url: "https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf",
-    responseType: "stream",
-    headers: {
-      Accept: "*/*",
-      "accept-encoding": "gzip, deflate, br",
-      "accept-language": "tr,en-US;q=0.9",
-      "cache-control": "no-cache",
-      pragma: "no-cache",
-    },
-    ...allowLegacyRenegotiation,
-  });
+  let response;
+  try {
+    response = await axios({
+      method: "get",
+      url: "https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf",
+      responseType: "stream",
+      headers: {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "tr,en-US;q=0.9,en;q=0.8,tr-TR;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5,zh;q=0.4,ja;q=0.3,ko;q=0.2,bg;q=0.1",
+        "Cache-Control": "no-cache",
+        "Connection": "keep-alive",
+        "Host": "www.btk.gov.tr",
+        "Pragma": "no-cache",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Upgrade-Insecure-Requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "sec-ch-ua": '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"',
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": '"Windows"',
+      },
+      ...allowLegacyRenegotiation,
+    })
+    .catch((err) => {
+      console.error("Error downloading PDF:", err.response.status, err.message, err.response.data, err);
+    });
+  } catch (err) {
+    console.error("Error downloading PDF:", err.response.status, err.message, err.response.data, err);
+    return;
+  }
 
   const pdfPath = "./BXXX.pdf";
   response.data.pipe(fs.createWriteStream(pdfPath));
