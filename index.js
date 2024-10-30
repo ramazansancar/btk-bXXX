@@ -93,10 +93,10 @@ const processPDF = async () => {
       ...allowLegacyRenegotiation,
     })
     .catch((err) => {
-      console.error("Error downloading PDF:", err.response.status, err.message, err.response.data, err);
+      console.error("Error downloading PDF:", err?.response?.status, err?.message, err?.response?.data, err);
     });
   } catch (err) {
-    console.error("Error downloading PDF:", err.response.status, err.message, err.response.data, err);
+    console.error("Error downloading PDF:", err?.response?.status, err?.message, err?.response?.data, err);
     return;
   }
 
