@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 15/11/2024
+## Son Güncellenme Tarihi: 16/11/2024
 
 ## Kayıt Sayısı: 132/998
 
@@ -161,7 +161,7 @@
 | B152 | RTEL GLOBAL TELEKOMÜNİKASYON HİZ. SAN. VE TİC. AŞ | Kullanılıyor |
 | B153 | MUTLUCELL İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B154 |  | Boş |
-| B155 | GRİD TELEKOMÜNİKASYON HİZMETLERİ AŞ | Kullanılıyor |
+| B155 | GRİD TELEKOMÜNİKASYON HİZMETLERİ AŞ | Korunuyor |
 | B156 |  | Boş |
 | B157 |  | Boş |
 | B158 |  | Boş |
@@ -331,7 +331,7 @@
 | B322 |  | Boş |
 | B323 |  | Boş |
 | B324 |  | Boş |
-| B325 | ALC MOBİLE İLETİŞİM HİZMETLERİ LİMİTED ŞİRKETİ | Kullanılıyor |
+| B325 | ALC MOBİLE İLETİŞİM HİZMETLERİ LİMİTED ŞİRKETİ | Korunuyor |
 | B326 |  | Boş |
 | B327 |  | Boş |
 | B328 |  | Boş |
