@@ -1,8 +1,8 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 30/12/2024
+## Son Güncellenme Tarihi: 31/12/2024
 
-## Kayıt Sayısı: 133/998
+## Kayıt Sayısı: 127/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -53,7 +53,7 @@
 | B044 |  | Boş |
 | B045 | ÖZTEK HABERLEŞME TİCARET SANAYİİ LTD. ŞTİ. | Kullanılıyor |
 | B046 |  | Boş |
-| B047 | OMS BİLİŞİM VE TELEKOMÜNİKASYON HİZM. DIŞ TİC. LTD. ŞTİ. | Korunuyor |
+| B047 |  | Boş |
 | B048 |  | Boş |
 | B049 |  | Boş |
 | B050 | MOBİLİŞİM İLETİŞİM AŞ | Kullanılıyor |
@@ -70,7 +70,7 @@
 | B061 |  | Boş |
 | B062 |  | Boş |
 | B063 |  | Boş |
-| B064 | ÜNİVERSAL TELEKOMÜNİKASYON İLETİŞİM HİZMETLERİ SANAYİ TİCARET | Korunuyor |
+| B064 |  | Boş |
 | B065 |  | Boş |
 | B066 | DİGİCELL TELEKOM İLETİŞİM VE BİLİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Kullanılıyor |
 | B067 |  | Boş |
@@ -98,7 +98,7 @@
 | B089 |  | Boş |
 | B090 |  | Boş |
 | B091 |  | Boş |
-| B092 | TELEKOMEXTRA TELEKOMÜNİKASYON VE İLETİŞİM ÜRÜNLERİ TİC. SAN. | Korunuyor |
+| B092 |  | Boş |
 | B093 |  | Boş |
 | B094 | YENİ TELEKOM İNTERNET HİZMETLERİ LİMİTED ŞİRKETİ | Kullanılıyor |
 | B095 | AVENCOM TELEKOM HİZMETLERİ LTD. ŞTİ. | Kullanılıyor |
@@ -268,7 +268,7 @@
 | B259 | KÜRESEL BETA TEKNOLOJİ TELEKOMÜNİKASYON SAN. TİC. LTD. ŞTİ. | Kullanılıyor |
 | B260 |  | Boş |
 | B261 |  | Boş |
-| B262 | VİA TELEKOM BİLGİ TEKNOLOJİLERİ TİCARET LİMİTED ŞİRKETİ | Korunuyor |
+| B262 |  | Boş |
 | B263 |  | Boş |
 | B264 |  | Boş |
 | B265 |  | Boş |
@@ -362,7 +362,7 @@
 | B353 | DİNAMİK TELEKOMÜNİKASYON BİLİŞİM SİSTEMLERİ SANAYİ VE TİCARET | Kullanılıyor |
 | B354 |  | Boş |
 | B355 |  | Boş |
-| B356 | USLUCAN TELEKOM HABERLEŞME VE İLETİŞİM ANONİM ŞİRKETİ | Korunuyor |
+| B356 |  | Boş |
 | B357 |  | Boş |
 | B358 | TELNET TELEKOM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B359 |  | Boş |
@@ -392,7 +392,7 @@
 | B383 |  | Boş |
 | B384 |  | Boş |
 | B385 | DURU İNTERNET VE BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED | Kullanılıyor |
-| B386 | IP SANTRAL TELEKOMÜNİKASYON VE TEKNOLOJİ ANONİM ŞİRKETİ | Korunuyor |
+| B386 |  | Boş |
 | B387 | TELKOTÜRK İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B388 |  | Boş |
 | B389 | TURKEYSMS BİLİŞİM VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
