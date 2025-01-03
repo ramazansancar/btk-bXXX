@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 01/01/2025
+## Son Güncellenme Tarihi: 02/01/2025
 
 ## Kayıt Sayısı: 127/998
 
@@ -39,7 +39,7 @@
 | B030 | TÜRK TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B031 | SAHRA TELEKOM TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B032 |  | Boş |
-| B033 | ELFE İLETİŞİM TEKNOLOJİLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
+| B033 | BULUTCELL İLETİŞİM LİMİTED ŞİRKETİ | Kullanılıyor |
 | B034 |  | Boş |
 | B035 | KOBİKOM TELEKOMÜNİKASYON VE BİLİŞİM HİZ. SAN VE TİC. AŞ. | Kullanılıyor |
 | B036 |  | Boş |
@@ -240,7 +240,7 @@
 | B231 | PASİFİK TELEKOM İLETİŞİM SAN. TİC. LTD. ŞTİ. | Kullanılıyor |
 | B232 |  | Boş |
 | B233 |  | Boş |
-| B234 | İSOBİL BİLGİSAYAR VE İNTERNET HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
+| B234 | SOFT TELEKOMÜNİKASYON VE TEKNOLOJİ LİMİTED ŞİRKETİ | Kullanılıyor |
 | B235 |  | Boş |
 | B236 |  | Boş |
 | B237 |  | Boş |
