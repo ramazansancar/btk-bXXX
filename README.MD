@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 14/01/2025
+## Son Güncellenme Tarihi: 15/01/2025
 
 ## Kayıt Sayısı: 127/998
 
@@ -19,7 +19,7 @@
 | B009 |  | Boş |
 | B011 | ANDROMEDA TV DİJİTAL PLATFORM İŞLETMECİLİĞİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B012 | DORUK İLETİŞİM VE OTOMASYON SAN. VE TİC. AŞ | Kullanılıyor |
-| B013 | SENA HABERLEŞME BİLİŞİM VE İNTERNET HİZMETLERİ TİC. VE SAN. AŞ | Kullanılıyor |
+| B013 | SENA HABERLEŞME BİLİŞİM VE İNTERNET HİZMETLERİ TİC. VE SAN. AŞ | Korunuyor |
 | B014 | NETBONE TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B015 | İŞ NET ELEKTRONİK BİLGİ ÜRETİM DAĞITIM TİC. VE İLETİŞİM HİZ. AŞ | Kullanılıyor |
 | B016 | VODAFONE NET İLETİŞİM HİZMETLERİ AŞ | Kullanılıyor |
@@ -72,7 +72,7 @@
 | B063 |  | Boş |
 | B064 |  | Boş |
 | B065 |  | Boş |
-| B066 | DİGİCELL TELEKOM İLETİŞİM VE BİLİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Kullanılıyor |
+| B066 | DİGİCELL TELEKOM İLETİŞİM VE BİLİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Korunuyor |
 | B067 |  | Boş |
 | B068 |  | Boş |
 | B069 |  | Boş |
@@ -91,7 +91,7 @@
 | B082 |  | Boş |
 | B083 |  | Boş |
 | B084 |  | Boş |
-| B085 | MEKROTİK TELEKOMÜNİKASYON LİMİTED ŞİRKETİ | Kullanılıyor |
+| B085 | MEKROTİK TELEKOMÜNİKASYON LİMİTED ŞİRKETİ | Korunuyor |
 | B086 |  | Boş |
 | B087 | MOBİLEKSEN İLETİŞİM BİLİŞİM HİZMETLERİ İTH. İHR. SANAYİ VE TİCARET | Kullanılıyor |
 | B088 |  | Boş |
@@ -152,9 +152,9 @@
 | B143 |  | Boş |
 | B144 |  | Boş |
 | B145 |  | Boş |
-| B146 | AJANS İLETİŞİM VE TELEKOMÜNİKASYON HİZMETLERİ TİC. LTD. ŞTİ. | Kullanılıyor |
+| B146 | AJANS İLETİŞİM VE TELEKOMÜNİKASYON HİZMETLERİ TİC. LTD. ŞTİ. | Korunuyor |
 | B147 |  | Boş |
-| B148 | ENTERA İLETİŞİM HİZMETLERİ AŞ | Kullanılıyor |
+| B148 | ENTERA İLETİŞİM HİZMETLERİ AŞ | Korunuyor |
 | B149 |  | Boş |
 | B150 |  | Boş |
 | B151 |  | Boş |
@@ -259,7 +259,7 @@
 | B250 |  | Boş |
 | B251 | FİNK HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B252 |  | Boş |
-| B253 | TURK FONE TELEKOMÜNİKASYON HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
+| B253 | TURK FONE TELEKOMÜNİKASYON HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Korunuyor |
 | B254 | MESAJMERKEZİ TELEKOMÜNİKASYON LTD. ŞTİ. | Kullanılıyor |
 | B255 |  | Boş |
 | B256 |  | Boş |
@@ -354,7 +354,7 @@
 | B345 | TT INTERNATIONAL TELEKOMÜNİKASYON SAN. ve TİC. LTD. ŞTİ. | Kullanılıyor |
 | B346 | TARGET TELEKOMÜNİKASYON SAN. VE TİC. LTD. ŞTİ. | Kullanılıyor |
 | B347 |  | Boş |
-| B348 | EXTRANET İLETİŞİM HİZMETLERİ AŞ | Kullanılıyor |
+| B348 | EXTRANET İLETİŞİM HİZMETLERİ AŞ | Korunuyor |
 | B349 | TÜRKSAT UYDU HABERLEŞME KABLO TV VE İŞLETME AŞ | Kullanılıyor |
 | B350 |  | Boş |
 | B351 |  | Boş |
@@ -367,7 +367,7 @@
 | B358 | TELNET TELEKOM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B359 |  | Boş |
 | B360 | MEDİUM TELEKOMÜNİKASYON HİZ. TİC. AŞ | Kullanılıyor |
-| B361 | PELİCELL TELEKOMÜNİKASYON AŞ | Kullanılıyor |
+| B361 | PELİCELL TELEKOMÜNİKASYON AŞ | Korunuyor |
 | B362 | DID TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B363 |  | Boş |
 | B364 | NİDA TELEKOMÜNİKASYON HİZ. AŞ | Kullanılıyor |
