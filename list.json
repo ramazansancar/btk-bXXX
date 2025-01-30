@@ -1,0 +1,4992 @@
+[
+  {
+    "prefix": "B001",
+    "operator": "TT MOBİL İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B002",
+    "operator": "TURKCELL İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B003",
+    "operator": "VODAFONE TELEKOMÜNİKASYON ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B004",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B005",
+    "operator": "FİXNET TELEKOMÜNİKASYON LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B006",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B007",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B008",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B009",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B011",
+    "operator": "ANDROMEDA TV DİJİTAL PLATFORM İŞLETMECİLİĞİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B012",
+    "operator": "DORUK İLETİŞİM VE OTOMASYON SAN. VE TİC. AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B013",
+    "operator": "SENA HABERLEŞME BİLİŞİM VE İNTERNET HİZMETLERİ TİC. VE SAN. AŞ",
+    "status": "Korunuyor"
+  },
+  {
+    "prefix": "B014",
+    "operator": "NETBONE TELEKOMÜNİKASYON ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B015",
+    "operator": "İŞ NET ELEKTRONİK BİLGİ ÜRETİM DAĞITIM TİC. VE İLETİŞİM HİZ. AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B016",
+    "operator": "VODAFONE NET İLETİŞİM HİZMETLERİ AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B017",
+    "operator": "MİLLENİCOM TELEKOMÜNİKASYON HİZMETLERİ AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B018",
+    "operator": "SUPERONLINE İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B019",
+    "operator": "TTNET ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B020",
+    "operator": "TURKNET İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B021",
+    "operator": "NETGSM İLETİŞİM VE BİLGİ TEKNOLOJİLERİ AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B022",
+    "operator": "TTM TELEKOMÜNİKASYON VE İLETİŞİM HİZMETLERİ AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B023",
+    "operator": "CONNECTİST HABERLEŞME VE ALTYAPI HİZMETLERİ AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B024",
+    "operator": "KAREL İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B025",
+    "operator": "İKON İLETİŞİM TELEKOMİNİKASYON AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B026",
+    "operator": "3C1B TELEKOMÜNİKASYON VE İNTERNET HİZMETLERİ SANAYİ VE TİCARET",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B027",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B028",
+    "operator": "NAC TELEKOMÜNİKASYON SİSTEMLERİ LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B029",
+    "operator": "DOĞUŞ BİLGİ TEKNOLOJİLERİ YAZILIM VE TELEKOMÜNİKASYON LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B030",
+    "operator": "TÜRK TELEKOMÜNİKASYON ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B031",
+    "operator": "SAHRA TELEKOM TİCARET LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B032",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B033",
+    "operator": "BULUTCELL İLETİŞİM LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B034",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B035",
+    "operator": "KOBİKOM TELEKOMÜNİKASYON VE BİLİŞİM HİZ. SAN VE TİC. AŞ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B036",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B037",
+    "operator": "FORTİS TELEKOMÜNİKASYON SAN. TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B038",
+    "operator": "VERİMOR TELEKOMÜNİKASYON AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B039",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B040",
+    "operator": "COMPATEL TELEKOMÜNİKASYON HİZM. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B041",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B042",
+    "operator": "VERİTA İLETİŞİM HİZMETLERİ TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B043",
+    "operator": "POSTA GÜVERCİNİ İLETİŞİM VE BİLİŞİM LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B044",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B045",
+    "operator": "ÖZTEK HABERLEŞME TİCARET SANAYİİ LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B046",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B047",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B048",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B049",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B050",
+    "operator": "MOBİLİŞİM İLETİŞİM AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B051",
+    "operator": "HATNET BİLGİ İLETİŞİM TEKNOLOJİLERİ VE TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B052",
+    "operator": "1 NET TELEKOM VE İLETİŞİM HİZM. PAZ. SAN. TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B053",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B054",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B055",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B056",
+    "operator": "HAKAY TELEKOMÜNİKASYON TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B057",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B058",
+    "operator": "NETGLOBAL TELEKOMÜNİKASYON HİZMETLERİ SAN. VE TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B059",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B060",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B061",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B062",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B063",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B064",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B065",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B066",
+    "operator": "DİGİCELL TELEKOM İLETİŞİM VE BİLİŞİM HİZMETLERİ TİC. LTD. ŞTİ.",
+    "status": "Korunuyor"
+  },
+  {
+    "prefix": "B067",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B068",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B069",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B070",
+    "operator": "GÜVEN TELEKOM BİLİŞİM TEKNOLOJİLERİ SAN. VE TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B071",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B072",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B073",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B074",
+    "operator": "VOİP TELEKOMÜNİKASYON HİZMETLERİ LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B075",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B076",
+    "operator": "OPLAVUS TEKNOLOJİ TELEKOMÜNİKASYON İLETİŞİM SİSTEMLERİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B077",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B078",
+    "operator": "MAKSİ TEKNOLOJİ TİCARET LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B079",
+    "operator": "REGNUM NETWORK TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B080",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B081",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B082",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B083",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B084",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B085",
+    "operator": "MEKROTİK TELEKOMÜNİKASYON LİMİTED ŞİRKETİ",
+    "status": "Korunuyor"
+  },
+  {
+    "prefix": "B086",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B087",
+    "operator": "MOBİLEKSEN İLETİŞİM BİLİŞİM HİZMETLERİ İTH. İHR. SANAYİ VE TİCARET",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B088",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B089",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B090",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B091",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B092",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B093",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B094",
+    "operator": "YENİ TELEKOM İNTERNET HİZMETLERİ LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B095",
+    "operator": "AVENCOM TELEKOM HİZMETLERİ LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B096",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B097",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B098",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B099",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B100",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B101",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B102",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B103",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B104",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B105",
+    "operator": "CALLTÜRK TELEKOMÜNİKASYON HİZMETLERİ AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B106",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B107",
+    "operator": "AKONTEL BİLGİ TEKNOLOJİLERİ İLETİŞİM LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B108",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B109",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B110",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B111",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B112",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B113",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B114",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B115",
+    "operator": "TELSAM TELEKOMÜNİKASYON YAZILIM SANAYİ VE TİCARET LİMİTED",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B116",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B117",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B118",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B119",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B120",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B121",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B122",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B123",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B124",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B125",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B126",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B127",
+    "operator": "EFOR NET SES TELEKOMÜNİKASYON BİLİŞİM BİLGİSAYAR TEKNOLOJİLERİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B128",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B129",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B130",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B131",
+    "operator": "MİKROTEL İLETİŞİM VE TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B132",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B133",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B134",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B135",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B136",
+    "operator": "VOİCE GURU TELEKOM VE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B137",
+    "operator": "TELİNKA İLETİŞİM VE YAZILIM TİCARET LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B138",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B139",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B140",
+    "operator": "ALFA İLETİŞİM HİZMETLERİ PAZARLAMA TİCARET ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B141",
+    "operator": "TESCOM TELEKOMÜNİKASYON VE İLETİŞİM HİZMETLERİ SANAYİ TİCARET",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B142",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B143",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B144",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B145",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B146",
+    "operator": "AJANS İLETİŞİM VE TELEKOMÜNİKASYON HİZMETLERİ TİC. LTD. ŞTİ.",
+    "status": "Korunuyor"
+  },
+  {
+    "prefix": "B147",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B148",
+    "operator": "ENTERA İLETİŞİM HİZMETLERİ AŞ",
+    "status": "Korunuyor"
+  },
+  {
+    "prefix": "B149",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B150",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B151",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B152",
+    "operator": "RTEL GLOBAL TELEKOMÜNİKASYON HİZ. SAN. VE TİC. AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B153",
+    "operator": "MUTLUCELL İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B154",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B155",
+    "operator": "GRİD TELEKOMÜNİKASYON HİZMETLERİ AŞ",
+    "status": "Korunuyor"
+  },
+  {
+    "prefix": "B156",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B157",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B158",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B159",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B160",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B161",
+    "operator": "ÜNİVERSAL BİLİŞİM VE HABERLEŞME HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Korunuyor"
+  },
+  {
+    "prefix": "B162",
+    "operator": "VOİCE TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B163",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B164",
+    "operator": "ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B165",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B166",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B167",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B168",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B169",
+    "operator": "T FON TELEKOMÜNİKASYON HİZMETLERİ TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B170",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B171",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B172",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B173",
+    "operator": "PLUSS TELEKOM İLETİŞİM TİC. AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B174",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B175",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B176",
+    "operator": "NETSA YAZILIM LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B177",
+    "operator": "AYYILDIZ GSM HABERLEŞME VE BİLGİ TEKNOLOJİ HİZMETLERİ TİCARET",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B178",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B179",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B180",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B181",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B182",
+    "operator": "TTM İLETİŞİM HİZMETLERİ AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B183",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B184",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B185",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B186",
+    "operator": "EMARKA İLETİŞİM VE BİLGİ TEKNOLOJİLERİ AŞ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B187",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B188",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B189",
+    "operator": "DT İLETİŞİM HİZMETLERİ AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B190",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B191",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B192",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B193",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B194",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B195",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B196",
+    "operator": "MORNET TELEKOMÜNİKASYON HİZMETLERİ VE BİLGİ TEKNOLOJİLERİ SAN.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B197",
+    "operator": "KOBİ TELEKOMÜNİKASYON LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B198",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B199",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B200",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B201",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B202",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B203",
+    "operator": "EMN TELEKOMÜNİKASYON HİZMETLERİ SAN. VE TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B204",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B205",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B206",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B207",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B208",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B209",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B210",
+    "operator": "DOĞA TELEKOMÜNİKASYON YAZILIM BİLGİSAYAR BİLİŞİM SİSTEMLERİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B211",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B212",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B213",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B214",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B215",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B216",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B217",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B218",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B219",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B220",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B221",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B222",
+    "operator": "BOS NET BİLİŞİM HİZMETLERİ AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B223",
+    "operator": "ESER TELEKOMÜNİKASYON SAN. VE TİC. AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B224",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B225",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B226",
+    "operator": "FLYNET TELEKOMİNİKASYON VE HABERLEŞME TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B227",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B228",
+    "operator": "E TELEKOM İLETİŞİM HİZ. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B229",
+    "operator": "BULUTFON TELEKOMÜNİKASYON SAN. VE TİC. AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B230",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B231",
+    "operator": "PASİFİK TELEKOM İLETİŞİM SAN. TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B232",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B233",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B234",
+    "operator": "SOFT TELEKOMÜNİKASYON VE TEKNOLOJİ LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B235",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B236",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B237",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B238",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B239",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B240",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B241",
+    "operator": "VOXBONE TELEKOMÜNİKASYON VE İLETİŞİM TİCARET LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B242",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B243",
+    "operator": "ORGANİK HABERLEŞME TEKNOLOJİLERİ BİLİŞİM SAN. VE TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B244",
+    "operator": "FONİVA TELEKOMÜNİKASYON HİZ. AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B245",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B246",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B247",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B248",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B249",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B250",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B251",
+    "operator": "FİNK HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B252",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B253",
+    "operator": "TURK FONE TELEKOMÜNİKASYON HİZMETLERİ TİCARET LİMİTED ŞİRKETİ",
+    "status": "Korunuyor"
+  },
+  {
+    "prefix": "B254",
+    "operator": "MESAJMERKEZİ TELEKOMÜNİKASYON LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B255",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B256",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B257",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B258",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B259",
+    "operator": "KÜRESEL BETA TEKNOLOJİ TELEKOMÜNİKASYON SAN. TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B260",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B261",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B262",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B263",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B264",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B265",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B266",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B267",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B268",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B269",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B270",
+    "operator": "ASİSTAN TELEKOM LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B271",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B272",
+    "operator": "CAN BİLGİ TEKNOLOJİLERİ VE TELEKOMÜNİKASYON LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B273",
+    "operator": "İLETİ BİLGİ TEKNOLOJİLERİ TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B274",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B275",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B276",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B277",
+    "operator": "SANAL SANTRAL TELEKOMÜNİKASYON TİC. A.Ş.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B278",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B279",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B280",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B281",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B282",
+    "operator": "TEKNOMOBİL UYDU HABERLEŞME ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B283",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B284",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B285",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B286",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B287",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B288",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B289",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B290",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B291",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B292",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B293",
+    "operator": "PEAKCELL İLETİŞİM HİZMETLERİ LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B294",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B295",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B296",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B297",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B298",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B299",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B300",
+    "operator": "TÜRKLAN TELEKOM BİLİŞİM VE İNTERNET HİZMETLERİ TİCARET LİMİTED",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B301",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B302",
+    "operator": "EFECEL BİLİŞİM VE TELEKOMÜNİKASYON SAN. VE TİC. LTD. ŞTİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B303",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B304",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B305",
+    "operator": "CLOUDCELL TELEKOMÜNİKASYON ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B306",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B307",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B308",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B309",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B310",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B311",
+    "operator": "ZETA TELEKOMÜNİKASYON ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B312",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B313",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B314",
+    "operator": "ADNET İNTERNET VE İLETİŞİM HİZ. TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B315",
+    "operator": "GOLD TELEKOMÜNİKASYON İLETİŞİM SAN. VE TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B316",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B317",
+    "operator": "TELCOROUTE TELEKOMÜNİKASYON ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B318",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B319",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B320",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B321",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B322",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B323",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B324",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B325",
+    "operator": "ALC MOBİLE İLETİŞİM HİZMETLERİ LİMİTED ŞİRKETİ",
+    "status": "Korunuyor"
+  },
+  {
+    "prefix": "B326",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B327",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B328",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B329",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B330",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B331",
+    "operator": "CORVASS TELEKOM TİC. AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B332",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B333",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B334",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B335",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B336",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B337",
+    "operator": "MOBİLKENT İLETİŞİM HİZ. SAN. TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B338",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B339",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B340",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B341",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B342",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B343",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B344",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B345",
+    "operator": "TT INTERNATIONAL TELEKOMÜNİKASYON SAN. ve TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B346",
+    "operator": "TARGET TELEKOMÜNİKASYON SAN. VE TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B347",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B348",
+    "operator": "EXTRANET İLETİŞİM HİZMETLERİ AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B349",
+    "operator": "TÜRKSAT UYDU HABERLEŞME KABLO TV VE İŞLETME AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B350",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B351",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B352",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B353",
+    "operator": "DİNAMİK TELEKOMÜNİKASYON BİLİŞİM SİSTEMLERİ SANAYİ VE TİCARET",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B354",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B355",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B356",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B357",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B358",
+    "operator": "TELNET TELEKOM HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B359",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B360",
+    "operator": "MEDİUM TELEKOMÜNİKASYON HİZ. TİC. AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B361",
+    "operator": "PELİCELL TELEKOMÜNİKASYON AŞ",
+    "status": "Korunuyor"
+  },
+  {
+    "prefix": "B362",
+    "operator": "DID TELEKOMÜNİKASYON ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B363",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B364",
+    "operator": "NİDA TELEKOMÜNİKASYON HİZ. AŞ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B365",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B366",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B367",
+    "operator": "İSTANBUL BT TELEKOM İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B368",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B369",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B370",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B371",
+    "operator": "TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B372",
+    "operator": "İNTERAKTİF SMS TELEKOMÜNİKASYON HİZ. TİC. LTD. ŞTİ.",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B373",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B374",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B375",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B376",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B377",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B378",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B379",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B380",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B381",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B382",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B383",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B384",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B385",
+    "operator": "DURU İNTERNET VE BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B386",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B387",
+    "operator": "TELKOTÜRK İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B388",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B389",
+    "operator": "TURKEYSMS BİLİŞİM VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B390",
+    "operator": "CCELL İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B391",
+    "operator": "SELAM MOBİL TELEKOM ANONİM ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B392",
+    "operator": "ULUHAN TEKNOLOJİ VE TELEKOMÜNİKASYON HİZMETLERİ LİMİTED",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B393",
+    "operator": "UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B394",
+    "operator": "AHSU TELEKOMÜNİKASYON SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B395",
+    "operator": "PRATİK TELEKOMÜNİKASYON BİLİŞİM TİCARET SANAYİ LİMİTED ŞİRKETİ",
+    "status": "Kullanılıyor"
+  },
+  {
+    "prefix": "B396",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B397",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B398",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B399",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B400",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B401",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B402",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B403",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B404",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B405",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B406",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B407",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B408",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B409",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B410",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B411",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B412",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B413",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B414",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B415",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B416",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B417",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B418",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B419",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B420",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B421",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B422",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B423",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B424",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B425",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B426",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B427",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B428",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B429",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B430",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B431",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B432",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B433",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B434",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B435",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B436",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B437",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B438",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B439",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B440",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B441",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B442",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B443",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B444",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B445",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B446",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B447",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B448",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B449",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B450",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B451",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B452",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B453",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B454",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B455",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B456",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B457",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B458",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B459",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B460",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B461",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B462",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B463",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B464",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B465",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B466",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B467",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B468",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B469",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B470",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B471",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B472",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B473",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B474",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B475",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B476",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B477",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B478",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B479",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B480",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B481",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B482",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B483",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B484",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B485",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B486",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B487",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B488",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B489",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B490",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B491",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B492",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B493",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B494",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B495",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B496",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B497",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B498",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B499",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B500",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B501",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B502",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B503",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B504",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B505",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B506",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B507",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B508",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B509",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B510",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B511",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B512",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B513",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B514",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B515",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B516",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B517",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B518",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B519",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B520",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B521",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B522",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B523",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B524",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B525",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B526",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B527",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B528",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B529",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B530",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B531",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B532",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B533",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B534",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B535",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B536",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B537",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B538",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B539",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B540",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B541",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B542",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B543",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B544",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B545",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B546",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B547",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B548",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B549",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B550",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B551",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B552",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B553",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B554",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B555",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B556",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B557",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B558",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B559",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B560",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B561",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B562",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B563",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B564",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B565",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B566",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B567",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B568",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B569",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B570",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B571",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B572",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B573",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B574",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B575",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B576",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B577",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B578",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B579",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B580",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B581",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B582",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B583",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B584",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B585",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B586",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B587",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B588",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B589",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B590",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B591",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B592",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B593",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B594",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B595",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B596",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B597",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B598",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B599",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B600",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B601",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B602",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B603",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B604",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B605",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B606",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B607",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B608",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B609",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B610",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B611",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B612",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B613",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B614",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B615",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B616",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B617",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B618",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B619",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B620",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B621",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B622",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B623",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B624",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B625",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B626",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B627",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B628",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B629",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B630",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B631",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B632",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B633",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B634",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B635",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B636",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B637",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B638",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B639",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B640",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B641",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B642",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B643",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B644",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B645",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B646",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B647",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B648",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B649",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B650",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B651",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B652",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B653",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B654",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B655",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B656",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B657",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B658",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B659",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B660",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B661",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B662",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B663",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B664",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B665",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B666",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B667",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B668",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B669",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B670",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B671",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B672",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B673",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B674",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B675",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B676",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B677",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B678",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B679",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B680",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B681",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B682",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B683",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B684",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B685",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B686",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B687",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B688",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B689",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B690",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B691",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B692",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B693",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B694",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B695",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B696",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B697",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B698",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B699",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B700",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B701",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B702",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B703",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B704",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B705",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B706",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B707",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B708",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B709",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B710",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B711",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B712",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B713",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B714",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B715",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B716",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B717",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B718",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B719",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B720",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B721",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B722",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B723",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B724",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B725",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B726",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B727",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B728",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B729",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B730",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B731",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B732",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B733",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B734",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B735",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B736",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B737",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B738",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B739",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B740",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B741",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B742",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B743",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B744",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B745",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B746",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B747",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B748",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B749",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B750",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B751",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B752",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B753",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B754",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B755",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B756",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B757",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B758",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B759",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B760",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B761",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B762",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B763",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B764",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B765",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B766",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B767",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B768",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B769",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B770",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B771",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B772",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B773",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B774",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B775",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B776",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B777",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B778",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B779",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B780",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B781",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B782",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B783",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B784",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B785",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B786",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B787",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B788",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B789",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B790",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B791",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B792",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B793",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B794",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B795",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B796",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B797",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B798",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B799",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B800",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B801",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B802",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B803",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B804",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B805",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B806",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B807",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B808",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B809",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B810",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B811",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B812",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B813",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B814",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B815",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B816",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B817",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B818",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B819",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B820",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B821",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B822",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B823",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B824",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B825",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B826",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B827",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B828",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B829",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B830",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B831",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B832",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B833",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B834",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B835",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B836",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B837",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B838",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B839",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B840",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B841",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B842",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B843",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B844",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B845",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B846",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B847",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B848",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B849",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B850",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B851",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B852",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B853",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B854",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B855",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B856",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B857",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B858",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B859",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B860",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B861",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B862",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B863",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B864",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B865",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B866",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B867",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B868",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B869",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B870",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B871",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B872",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B873",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B874",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B875",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B876",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B877",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B878",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B879",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B880",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B881",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B882",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B883",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B884",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B885",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B886",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B887",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B888",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B889",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B890",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B891",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B892",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B893",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B894",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B895",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B896",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B897",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B898",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B899",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B900",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B901",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B902",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B903",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B904",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B905",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B906",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B907",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B908",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B909",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B910",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B911",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B912",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B913",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B914",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B915",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B916",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B917",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B918",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B919",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B920",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B921",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B922",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B923",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B924",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B925",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B926",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B927",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B928",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B929",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B930",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B931",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B932",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B933",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B934",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B935",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B936",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B937",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B938",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B939",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B940",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B941",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B942",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B943",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B944",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B945",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B946",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B947",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B948",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B949",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B950",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B951",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B952",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B953",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B954",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B955",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B956",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B957",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B958",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B959",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B960",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B961",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B962",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B963",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B964",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B965",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B966",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B967",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B968",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B969",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B970",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B971",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B972",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B973",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B974",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B975",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B976",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B977",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B978",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B979",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B980",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B981",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B982",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B983",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B984",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B985",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B986",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B987",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B988",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B989",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B990",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B991",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B992",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B993",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B994",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B995",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B996",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B997",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B998",
+    "operator": "",
+    "status": "Boş"
+  },
+  {
+    "prefix": "B999",
+    "operator": "",
+    "status": "Boş"
+  }
+]

@@ -49,6 +49,7 @@ async function appendToFile(filePath, content) {
 let count = 0;
 let totalCount = 0;
 let lastUpdatedDate = null;
+let list = [];
 
 // Function to format rows for MD file
 const rowFormatter = (row) => {
@@ -61,6 +62,15 @@ const rowFormatter = (row) => {
     return `| ${row[0]} |  | ${row[1]} |\n`;
   }
   return "";
+};
+
+const jsonFormatter = (row) => {
+  if (row.length === 3) {
+    return { prefix: row[0], operator: row[1], status: row[2] };
+  } else if (row.length === 2) {
+    return { prefix: row[0], operator: "", status: row[1] };
+  }
+  return {};
 };
 
 // Main function
@@ -110,7 +120,7 @@ const processPDF = async () => {
   const mdPath = "./README.MD";
   await writeFile(mdPath, "");
   await appendToFile(mdPath,`# Numara Taşınabilirliği Yönlendirme Kodları\n\n`);
-  await appendToFile(mdPath, `## Son Güncellenme Tarihi: \n\n`);
+  //await appendToFile(mdPath, `## Son Güncellenme Tarihi: \n\n`);
   await appendToFile(mdPath, "## Kayıt Sayısı: \n\n");
   await appendToFile(mdPath, "### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>\n\n");
   await appendToFile(mdPath,"| Önek | İşletmeci | Durum |\n| --- | --- | --- |\n");
@@ -127,6 +137,7 @@ const processPDF = async () => {
         const rowStrings = Object.keys(rows)
           .sort((y1, y2) => parseFloat(y1) - parseFloat(y2)) // Sort by Y position
           .map((y) => {
+            list.push(jsonFormatter(rows[y]));
             return rowFormatter(rows[y])
           });
 
@@ -135,7 +146,7 @@ const processPDF = async () => {
         }
 
         rows = {}; // Clear rows for the next page
-        console.log("PAGE:", item?.page);
+        if(item?.page) console.log("PAGE:", item?.page);
       } else if (item.text) {
         if(item.text.includes(new Date().getFullYear().toString()) || item.text.includes(new Date().getFullYear() - 1)) {
           lastUpdatedDate = item.text;
@@ -167,20 +178,24 @@ const processPDF = async () => {
 
   // Step 4: Sort lines and update metadata in the markdown file
   const fileContent = await readFile(mdPath, "utf8");
-  let splitCount = 10;
+  let splitCount = 8;
   const headers = fileContent.split("\n").slice(0, splitCount);
   let lines = fileContent.split("\n").slice(splitCount).filter(Boolean);
+
+  console.log("Total used records:", count);
+  console.log("Total records:", totalCount);
+  console.log(`Last updated date:`, lastUpdatedDate);
 
   // Sort lines
   lines = lines.sort((a, b) => (a > b ? 1 : -1));
 
   // Update headers with the current date and record count
   headers.forEach((line, index) => {
-    if (line.includes("Son Güncellenme Tarihi:")) {
+    /*if (line.includes("Son Güncellenme Tarihi:")) {
       headers[
         index
       ] = `## Son Güncellenme Tarihi: ${lastUpdatedDate}`;
-    }
+    }*/
     if (line.includes("Kayıt Sayısı:")) {
       headers[index] = `## Kayıt Sayısı: ${count}/${totalCount}`;
     }
@@ -188,8 +203,9 @@ const processPDF = async () => {
 
   const updatedContent = [...headers, ...lines, ''].join("\n");
   await writeFile(mdPath, updatedContent);
-
-  console.log("Markdown file created and updated successfully.");
+  list = list.filter((item) => Object.keys(item).length > 0);
+  await writeFile("list.json", JSON.stringify(list, null, 2));
+  console.log("Markdown and list.json file created and updated successfully.");
 }
 
 // Run the process
