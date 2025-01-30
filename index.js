@@ -120,7 +120,7 @@ const processPDF = async () => {
   const mdPath = "./README.MD";
   await writeFile(mdPath, "");
   await appendToFile(mdPath,`# Numara Taşınabilirliği Yönlendirme Kodları\n\n`);
-  //await appendToFile(mdPath, `## Son Güncellenme Tarihi: \n\n`);
+  await appendToFile(mdPath, `## Son Güncellenme Tarihi: \n\n`);
   await appendToFile(mdPath, "## Kayıt Sayısı: \n\n");
   await appendToFile(mdPath, "### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>\n\n");
   await appendToFile(mdPath,"| Önek | İşletmeci | Durum |\n| --- | --- | --- |\n");
@@ -178,7 +178,7 @@ const processPDF = async () => {
 
   // Step 4: Sort lines and update metadata in the markdown file
   const fileContent = await readFile(mdPath, "utf8");
-  let splitCount = 8;
+  let splitCount = 10;
   const headers = fileContent.split("\n").slice(0, splitCount);
   let lines = fileContent.split("\n").slice(splitCount).filter(Boolean);
 
@@ -191,11 +191,11 @@ const processPDF = async () => {
 
   // Update headers with the current date and record count
   headers.forEach((line, index) => {
-    /*if (line.includes("Son Güncellenme Tarihi:")) {
+    if (line.includes("Son Güncellenme Tarihi:")) {
       headers[
         index
       ] = `## Son Güncellenme Tarihi: ${lastUpdatedDate}`;
-    }*/
+    }
     if (line.includes("Kayıt Sayısı:")) {
       headers[index] = `## Kayıt Sayısı: ${count}/${totalCount}`;
     }
