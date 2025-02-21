@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 19/02/2025
+## Son Güncellenme Tarihi: 20/02/2025
 
 ## Kayıt Sayısı: 127/998
 
@@ -354,7 +354,7 @@
 | B345 | TT INTERNATIONAL TELEKOMÜNİKASYON SAN. ve TİC. LTD. ŞTİ. | Kullanılıyor |
 | B346 | TARGET TELEKOMÜNİKASYON SAN. VE TİC. LTD. ŞTİ. | Kullanılıyor |
 | B347 |  | Boş |
-| B348 | EXTRANET İLETİŞİM HİZMETLERİ AŞ | Kullanılıyor |
+| B348 | EXTRANET İLETİŞİM HİZMETLERİ AŞ | Korunuyor |
 | B349 | TÜRKSAT UYDU HABERLEŞME KABLO TV VE İŞLETME AŞ | Kullanılıyor |
 | B350 |  | Boş |
 | B351 |  | Boş |
