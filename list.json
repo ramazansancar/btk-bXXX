@@ -57,7 +57,7 @@
   {
     "prefix": "B013",
     "operator": "SENA HABERLEŞME BİLİŞİM VE İNTERNET HİZMETLERİ TİC. VE SAN. AŞ",
-    "status": "Korunuyor"
+    "status": "Kullanılıyor"
   },
   {
     "prefix": "B014",
@@ -322,7 +322,7 @@
   {
     "prefix": "B066",
     "operator": "DİGİCELL TELEKOM İLETİŞİM VE BİLİŞİM HİZMETLERİ TİC. LTD. ŞTİ.",
-    "status": "Korunuyor"
+    "status": "Kullanılıyor"
   },
   {
     "prefix": "B067",
@@ -796,8 +796,8 @@
   },
   {
     "prefix": "B161",
-    "operator": "ÜNİVERSAL BİLİŞİM VE HABERLEŞME HİZMETLERİ ANONİM ŞİRKETİ",
-    "status": "Korunuyor"
+    "operator": "",
+    "status": "Boş"
   },
   {
     "prefix": "B162",
@@ -1616,8 +1616,8 @@
   },
   {
     "prefix": "B325",
-    "operator": "ALC MOBİLE İLETİŞİM HİZMETLERİ LİMİTED ŞİRKETİ",
-    "status": "Korunuyor"
+    "operator": "",
+    "status": "Boş"
   },
   {
     "prefix": "B326",

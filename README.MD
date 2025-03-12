@@ -1,8 +1,8 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 10/03/2025
+## Son Güncellenme Tarihi: 11/03/2025
 
-## Kayıt Sayısı: 127/998
+## Kayıt Sayısı: 125/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -19,7 +19,7 @@
 | B009 |  | Boş |
 | B011 | ANDROMEDA TV DİJİTAL PLATFORM İŞLETMECİLİĞİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B012 | DORUK İLETİŞİM VE OTOMASYON SAN. VE TİC. AŞ | Kullanılıyor |
-| B013 | SENA HABERLEŞME BİLİŞİM VE İNTERNET HİZMETLERİ TİC. VE SAN. AŞ | Korunuyor |
+| B013 | SENA HABERLEŞME BİLİŞİM VE İNTERNET HİZMETLERİ TİC. VE SAN. AŞ | Kullanılıyor |
 | B014 | NETBONE TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B015 | İŞ NET ELEKTRONİK BİLGİ ÜRETİM DAĞITIM TİC. VE İLETİŞİM HİZ. AŞ | Kullanılıyor |
 | B016 | VODAFONE NET İLETİŞİM HİZMETLERİ AŞ | Kullanılıyor |
@@ -72,7 +72,7 @@
 | B063 |  | Boş |
 | B064 |  | Boş |
 | B065 |  | Boş |
-| B066 | DİGİCELL TELEKOM İLETİŞİM VE BİLİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Korunuyor |
+| B066 | DİGİCELL TELEKOM İLETİŞİM VE BİLİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Kullanılıyor |
 | B067 |  | Boş |
 | B068 |  | Boş |
 | B069 |  | Boş |
@@ -167,7 +167,7 @@
 | B158 |  | Boş |
 | B159 |  | Boş |
 | B160 |  | Boş |
-| B161 | ÜNİVERSAL BİLİŞİM VE HABERLEŞME HİZMETLERİ ANONİM ŞİRKETİ | Korunuyor |
+| B161 |  | Boş |
 | B162 | VOİCE TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B163 |  | Boş |
 | B164 | ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
@@ -331,7 +331,7 @@
 | B322 |  | Boş |
 | B323 |  | Boş |
 | B324 |  | Boş |
-| B325 | ALC MOBİLE İLETİŞİM HİZMETLERİ LİMİTED ŞİRKETİ | Korunuyor |
+| B325 |  | Boş |
 | B326 |  | Boş |
 | B327 |  | Boş |
 | B328 |  | Boş |
