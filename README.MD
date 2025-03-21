@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 19/03/2025
+## Son Güncellenme Tarihi: 20/03/2025
 
 ## Kayıt Sayısı: 125/998
 
@@ -48,7 +48,7 @@
 | B039 |  | Boş |
 | B040 | COMPATEL TELEKOMÜNİKASYON HİZM. LTD. ŞTİ. | Kullanılıyor |
 | B041 |  | Boş |
-| B042 | VERİTA İLETİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Kullanılıyor |
+| B042 | VERİTA İLETİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Korunuyor |
 | B043 | POSTA GÜVERCİNİ İLETİŞİM VE BİLİŞİM LİMİTED ŞİRKETİ | Kullanılıyor |
 | B044 |  | Boş |
 | B045 | ÖZTEK HABERLEŞME TİCARET SANAYİİ LTD. ŞTİ. | Kullanılıyor |
@@ -72,7 +72,7 @@
 | B063 |  | Boş |
 | B064 |  | Boş |
 | B065 |  | Boş |
-| B066 | DİGİCELL TELEKOM İLETİŞİM VE BİLİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Kullanılıyor |
+| B066 | DİGİCELL TELEKOM İLETİŞİM VE BİLİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Korunuyor |
 | B067 |  | Boş |
 | B068 |  | Boş |
 | B069 |  | Boş |
@@ -84,7 +84,7 @@
 | B075 |  | Boş |
 | B076 | OPLAVUS TEKNOLOJİ TELEKOMÜNİKASYON İLETİŞİM SİSTEMLERİ | Kullanılıyor |
 | B077 |  | Boş |
-| B078 | MAKSİ TEKNOLOJİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
+| B078 | MAKSİ TEKNOLOJİ TİCARET LİMİTED ŞİRKETİ | Korunuyor |
 | B079 | REGNUM NETWORK TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B080 |  | Boş |
 | B081 |  | Boş |
@@ -170,7 +170,7 @@
 | B161 |  | Boş |
 | B162 | VOİCE TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B163 |  | Boş |
-| B164 | ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
+| B164 | ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED | Korunuyor |
 | B165 |  | Boş |
 | B166 |  | Boş |
 | B167 |  | Boş |
@@ -377,7 +377,7 @@
 | B368 |  | Boş |
 | B369 |  | Boş |
 | B370 |  | Boş |
-| B371 | TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
+| B371 | TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED | Korunuyor |
 | B372 | İNTERAKTİF SMS TELEKOMÜNİKASYON HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
 | B373 |  | Boş |
 | B374 |  | Boş |
