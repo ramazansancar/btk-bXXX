@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 27/03/2025
+## Son Güncellenme Tarihi: 28/03/2025
 
 ## Kayıt Sayısı: 125/998
 
