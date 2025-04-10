@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 08/04/2025
+## Son Güncellenme Tarihi: 09/04/2025
 
 ## Kayıt Sayısı: 125/998
 
@@ -48,7 +48,7 @@
 | B039 |  | Boş |
 | B040 | COMPATEL TELEKOMÜNİKASYON HİZM. LTD. ŞTİ. | Kullanılıyor |
 | B041 |  | Boş |
-| B042 | VERİTA İLETİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Korunuyor |
+| B042 | VERİTA İLETİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Kullanılıyor |
 | B043 | POSTA GÜVERCİNİ İLETİŞİM VE BİLİŞİM LİMİTED ŞİRKETİ | Kullanılıyor |
 | B044 |  | Boş |
 | B045 | ÖZTEK HABERLEŞME TİCARET SANAYİİ LTD. ŞTİ. | Kullanılıyor |
@@ -377,7 +377,7 @@
 | B368 |  | Boş |
 | B369 |  | Boş |
 | B370 |  | Boş |
-| B371 | TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED | Korunuyor |
+| B371 | TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
 | B372 | İNTERAKTİF SMS TELEKOMÜNİKASYON HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
 | B373 |  | Boş |
 | B374 |  | Boş |
