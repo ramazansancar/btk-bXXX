@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 30/04/2025
+## Son Güncellenme Tarihi: 01/05/2025
 
 ## Kayıt Sayısı: 125/998
 
@@ -170,7 +170,7 @@
 | B161 |  | Boş |
 | B162 | VOİCE TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B163 |  | Boş |
-| B164 | ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED | Korunuyor |
+| B164 | ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
 | B165 |  | Boş |
 | B166 |  | Boş |
 | B167 |  | Boş |
