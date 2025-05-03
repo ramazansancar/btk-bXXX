@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 01/05/2025
+## Son Güncellenme Tarihi: 02/05/2025
 
 ## Kayıt Sayısı: 125/998
 
@@ -19,7 +19,7 @@
 | B009 |  | Boş |
 | B011 | ANDROMEDA TV DİJİTAL PLATFORM İŞLETMECİLİĞİ ANONİM ŞİRKETİ | Korunuyor |
 | B012 | DORUK İLETİŞİM VE OTOMASYON SAN. VE TİC. AŞ | Kullanılıyor |
-| B013 | SENA HABERLEŞME BİLİŞİM VE İNTERNET HİZMETLERİ TİC. VE SAN. AŞ | Kullanılıyor |
+| B013 | SENA HABERLEŞME BİLİŞİM VE İNTERNET HİZMETLERİ TİC. VE SAN. AŞ | Korunuyor |
 | B014 | NETBONE TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B015 | İŞ NET ELEKTRONİK BİLGİ ÜRETİM DAĞITIM TİC. VE İLETİŞİM HİZ. AŞ | Kullanılıyor |
 | B016 | VODAFONE NET İLETİŞİM HİZMETLERİ AŞ | Kullanılıyor |
