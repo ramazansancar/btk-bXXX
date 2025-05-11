@@ -766,8 +766,8 @@
   },
   {
     "prefix": "B155",
-    "operator": "GRİD TELEKOMÜNİKASYON HİZMETLERİ AŞ",
-    "status": "Korunuyor"
+    "operator": "",
+    "status": "Boş"
   },
   {
     "prefix": "B156",
@@ -1847,7 +1847,7 @@
   {
     "prefix": "B371",
     "operator": "TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED",
-    "status": "Kullanılıyor"
+    "status": "Korunuyor"
   },
   {
     "prefix": "B372",

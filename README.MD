@@ -1,8 +1,8 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 09/05/2025
+## Son Güncellenme Tarihi: 10/05/2025
 
-## Kayıt Sayısı: 125/998
+## Kayıt Sayısı: 124/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -161,7 +161,7 @@
 | B152 | RTEL GLOBAL TELEKOMÜNİKASYON HİZ. SAN. VE TİC. AŞ | Kullanılıyor |
 | B153 | MUTLUCELL İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B154 |  | Boş |
-| B155 | GRİD TELEKOMÜNİKASYON HİZMETLERİ AŞ | Korunuyor |
+| B155 |  | Boş |
 | B156 |  | Boş |
 | B157 |  | Boş |
 | B158 |  | Boş |
@@ -377,7 +377,7 @@
 | B368 |  | Boş |
 | B369 |  | Boş |
 | B370 |  | Boş |
-| B371 | TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
+| B371 | TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED | Korunuyor |
 | B372 | İNTERAKTİF SMS TELEKOMÜNİKASYON HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
 | B373 |  | Boş |
 | B374 |  | Boş |
