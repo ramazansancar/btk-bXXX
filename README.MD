@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Son Güncellenme Tarihi: 01/06/2025
+## Son Güncellenme Tarihi: 02/06/2025
 
 ## Kayıt Sayısı: 124/998
 
@@ -133,7 +133,7 @@
 | B124 |  | Boş |
 | B125 |  | Boş |
 | B126 |  | Boş |
-| B127 | EFOR NET SES TELEKOMÜNİKASYON BİLİŞİM BİLGİSAYAR TEKNOLOJİLERİ | Kullanılıyor |
+| B127 | EFOR NET SES TELEKOMÜNİKASYON BİLİŞİM BİLGİSAYAR TEKNOLOJİLERİ | Korunuyor |
 | B128 |  | Boş |
 | B129 |  | Boş |
 | B130 |  | Boş |
@@ -265,7 +265,7 @@
 | B256 |  | Boş |
 | B257 |  | Boş |
 | B258 |  | Boş |
-| B259 | KÜRESEL BETA TEKNOLOJİ TELEKOMÜNİKASYON SAN. TİC. LTD. ŞTİ. | Kullanılıyor |
+| B259 | KÜRESEL BETA TEKNOLOJİ TELEKOMÜNİKASYON SAN. TİC. LTD. ŞTİ. | Korunuyor |
 | B260 |  | Boş |
 | B261 |  | Boş |
 | B262 |  | Boş |
@@ -317,7 +317,7 @@
 | B308 |  | Boş |
 | B309 |  | Boş |
 | B310 |  | Boş |
-| B311 | ZETA TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
+| B311 | ZETA TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Korunuyor |
 | B312 |  | Boş |
 | B313 |  | Boş |
 | B314 | ADNET İNTERNET VE İLETİŞİM HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
@@ -398,9 +398,9 @@
 | B389 | TURKEYSMS BİLİŞİM VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B390 | CCELL İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B391 | SELAM MOBİL TELEKOM ANONİM ŞİRKETİ | Kullanılıyor |
-| B392 | ULUHAN TEKNOLOJİ VE TELEKOMÜNİKASYON HİZMETLERİ LİMİTED | Kullanılıyor |
+| B392 | ULUHAN TEKNOLOJİ VE TELEKOMÜNİKASYON HİZMETLERİ LİMİTED | Korunuyor |
 | B393 | UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
-| B394 | AHSU TELEKOMÜNİKASYON SANAYİ VE TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
+| B394 | AHSU TELEKOMÜNİKASYON SANAYİ VE TİCARET LİMİTED ŞİRKETİ | Korunuyor |
 | B395 | PRATİK TELEKOMÜNİKASYON BİLİŞİM TİCARET SANAYİ LİMİTED ŞİRKETİ | Kullanılıyor |
 | B396 |  | Boş |
 | B397 |  | Boş |
