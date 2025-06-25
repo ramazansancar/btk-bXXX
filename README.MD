@@ -315,7 +315,7 @@
 | B308 |  | Boş |
 | B309 |  | Boş |
 | B310 |  | Boş |
-| B311 | ZETA TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Korunuyor |
+| B311 | ZETA TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B312 |  | Boş |
 | B313 |  | Boş |
 | B314 | ADNET İNTERNET VE İLETİŞİM HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
