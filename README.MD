@@ -46,7 +46,7 @@
 | B039 |  | Boş |
 | B040 | COMPATEL TELEKOMÜNİKASYON HİZM. LTD. ŞTİ. | Kullanılıyor |
 | B041 |  | Boş |
-| B042 | VERİTA İLETİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Kullanılıyor |
+| B042 | VERİTA İLETİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Korunuyor |
 | B043 | POSTA GÜVERCİNİ İLETİŞİM VE BİLİŞİM LİMİTED ŞİRKETİ | Kullanılıyor |
 | B044 |  | Boş |
 | B045 | ÖZTEK HABERLEŞME TİCARET SANAYİİ LTD. ŞTİ. | Kullanılıyor |
