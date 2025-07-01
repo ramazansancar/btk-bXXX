@@ -258,7 +258,7 @@
 | B251 | FİNK HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B252 |  | Boş |
 | B253 | TURK FONE TELEKOMÜNİKASYON HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Korunuyor |
-| B254 | MESAJMERKEZİ TELEKOMÜNİKASYON LTD. ŞTİ. | Kullanılıyor |
+| B254 | MESAJMERKEZİ TELEKOMÜNİKASYON LTD. ŞTİ. | Korunuyor |
 | B255 |  | Boş |
 | B256 |  | Boş |
 | B257 |  | Boş |
