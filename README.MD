@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 116/998
+## Kayıt Sayısı: 117/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -68,7 +68,7 @@
 | B061 |  | Boş |
 | B062 |  | Boş |
 | B063 |  | Boş |
-| B064 |  | Boş |
+| B064 | ÜNİVERSAL TELEKOMÜNİKASYON İLETİŞİM HİZMETLERİ SANAYİ TİCARET | Kullanılıyor |
 | B065 |  | Boş |
 | B066 |  | Boş |
 | B067 |  | Boş |
@@ -168,7 +168,7 @@
 | B161 |  | Boş |
 | B162 | VOİCE TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B163 |  | Boş |
-| B164 | ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
+| B164 | ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED | Korunuyor |
 | B165 |  | Boş |
 | B166 |  | Boş |
 | B167 |  | Boş |
@@ -398,7 +398,7 @@
 | B391 | SELAM MOBİL TELEKOM ANONİM ŞİRKETİ | Kullanılıyor |
 | B392 | ULUHAN TEKNOLOJİ VE TELEKOMÜNİKASYON HİZMETLERİ LİMİTED | Korunuyor |
 | B393 | UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
-| B394 | AHSU TELEKOMÜNİKASYON SANAYİ VE TİCARET LİMİTED ŞİRKETİ | Korunuyor |
+| B394 | AHSU TELEKOMÜNİKASYON SANAYİ VE TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B395 | PRATİK TELEKOMÜNİKASYON BİLİŞİM TİCARET SANAYİ LİMİTED ŞİRKETİ | Kullanılıyor |
 | B396 |  | Boş |
 | B397 |  | Boş |

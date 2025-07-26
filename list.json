@@ -311,8 +311,8 @@
   },
   {
     "prefix": "B064",
-    "operator": "",
-    "status": "Boş"
+    "operator": "ÜNİVERSAL TELEKOMÜNİKASYON İLETİŞİM HİZMETLERİ SANAYİ TİCARET",
+    "status": "Kullanılıyor"
   },
   {
     "prefix": "B065",
@@ -812,7 +812,7 @@
   {
     "prefix": "B164",
     "operator": "ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED",
-    "status": "Kullanılıyor"
+    "status": "Korunuyor"
   },
   {
     "prefix": "B165",
@@ -1962,7 +1962,7 @@
   {
     "prefix": "B394",
     "operator": "AHSU TELEKOMÜNİKASYON SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-    "status": "Korunuyor"
+    "status": "Kullanılıyor"
   },
   {
     "prefix": "B395",
