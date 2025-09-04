@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 117/998
+## Kayıt Sayısı: 119/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -400,8 +400,8 @@
 | B393 | UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B394 | AHSU TELEKOMÜNİKASYON SANAYİ VE TİCARET LİMİTED ŞİRKETİ | Korunuyor |
 | B395 | PRATİK TELEKOMÜNİKASYON BİLİŞİM TİCARET SANAYİ LİMİTED ŞİRKETİ | Kullanılıyor |
-| B396 |  | Boş |
-| B397 |  | Boş |
+| B396 | ORBİT TELEKOMÜNİKASYON İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
+| B397 | ERDE TELEKOM HABERLEŞME İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
 | B398 |  | Boş |
 | B399 |  | Boş |
 | B400 |  | Boş |
