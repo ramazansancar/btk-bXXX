@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 119/998
+## Kayıt Sayısı: 120/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -402,7 +402,7 @@
 | B395 | PRATİK TELEKOMÜNİKASYON BİLİŞİM TİCARET SANAYİ LİMİTED ŞİRKETİ | Kullanılıyor |
 | B396 | ORBİT TELEKOMÜNİKASYON İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
 | B397 | ERDE TELEKOM HABERLEŞME İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
-| B398 |  | Boş |
+| B398 | BORAN TELEKOM HABERLEŞME İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
 | B399 |  | Boş |
 | B400 |  | Boş |
 | B401 |  | Boş |
