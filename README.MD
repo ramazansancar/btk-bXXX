@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 120/998
+## Kayıt Sayısı: 110/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -15,7 +15,7 @@
 | B007 |  | Boş |
 | B008 |  | Boş |
 | B009 |  | Boş |
-| B011 | ANDROMEDA TV DİJİTAL PLATFORM İŞLETMECİLİĞİ ANONİM ŞİRKETİ | Korunuyor |
+| B011 |  | Boş |
 | B012 | DORUK İLETİŞİM VE OTOMASYON SAN. VE TİC. AŞ | Kullanılıyor |
 | B013 |  | Boş |
 | B014 | NETBONE TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
@@ -46,7 +46,7 @@
 | B039 |  | Boş |
 | B040 | COMPATEL TELEKOMÜNİKASYON HİZM. LTD. ŞTİ. | Kullanılıyor |
 | B041 |  | Boş |
-| B042 | VERİTA İLETİŞİM HİZMETLERİ TİC. LTD. ŞTİ. | Korunuyor |
+| B042 |  | Boş |
 | B043 | POSTA GÜVERCİNİ İLETİŞİM VE BİLİŞİM LİMİTED ŞİRKETİ | Kullanılıyor |
 | B044 |  | Boş |
 | B045 | ÖZTEK HABERLEŞME TİCARET SANAYİİ LTD. ŞTİ. | Kullanılıyor |
@@ -82,7 +82,7 @@
 | B075 |  | Boş |
 | B076 | OPLAVUS TEKNOLOJİ TELEKOMÜNİKASYON İLETİŞİM SİSTEMLERİ | Kullanılıyor |
 | B077 |  | Boş |
-| B078 | MAKSİ TEKNOLOJİ TİCARET LİMİTED ŞİRKETİ | Korunuyor |
+| B078 |  | Boş |
 | B079 | REGNUM NETWORK TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B080 |  | Boş |
 | B081 |  | Boş |
@@ -131,7 +131,7 @@
 | B124 |  | Boş |
 | B125 |  | Boş |
 | B126 |  | Boş |
-| B127 | EFOR NET SES TELEKOMÜNİKASYON BİLİŞİM BİLGİSAYAR TEKNOLOJİLERİ | Korunuyor |
+| B127 |  | Boş |
 | B128 |  | Boş |
 | B129 |  | Boş |
 | B130 |  | Boş |
@@ -168,7 +168,7 @@
 | B161 |  | Boş |
 | B162 | VOİCE TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B163 |  | Boş |
-| B164 | ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED | Korunuyor |
+| B164 |  | Boş |
 | B165 |  | Boş |
 | B166 |  | Boş |
 | B167 |  | Boş |
@@ -263,7 +263,7 @@
 | B256 |  | Boş |
 | B257 |  | Boş |
 | B258 |  | Boş |
-| B259 | KÜRESEL BETA TEKNOLOJİ TELEKOMÜNİKASYON SAN. TİC. LTD. ŞTİ. | Korunuyor |
+| B259 |  | Boş |
 | B260 |  | Boş |
 | B261 |  | Boş |
 | B262 |  | Boş |
@@ -315,7 +315,7 @@
 | B308 |  | Boş |
 | B309 |  | Boş |
 | B310 |  | Boş |
-| B311 | ZETA TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Korunuyor |
+| B311 |  | Boş |
 | B312 |  | Boş |
 | B313 |  | Boş |
 | B314 | ADNET İNTERNET VE İLETİŞİM HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
@@ -375,7 +375,7 @@
 | B368 |  | Boş |
 | B369 |  | Boş |
 | B370 |  | Boş |
-| B371 | TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED | Korunuyor |
+| B371 |  | Boş |
 | B372 | İNTERAKTİF SMS TELEKOMÜNİKASYON HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
 | B373 |  | Boş |
 | B374 |  | Boş |
@@ -396,9 +396,9 @@
 | B389 | TURKEYSMS BİLİŞİM VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B390 | CCELL İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B391 | SELAM MOBİL TELEKOM ANONİM ŞİRKETİ | Kullanılıyor |
-| B392 | ULUHAN TEKNOLOJİ VE TELEKOMÜNİKASYON HİZMETLERİ LİMİTED | Korunuyor |
+| B392 |  | Boş |
 | B393 | UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
-| B394 | AHSU TELEKOMÜNİKASYON SANAYİ VE TİCARET LİMİTED ŞİRKETİ | Korunuyor |
+| B394 |  | Boş |
 | B395 | PRATİK TELEKOMÜNİKASYON BİLİŞİM TİCARET SANAYİ LİMİTED ŞİRKETİ | Kullanılıyor |
 | B396 | ORBİT TELEKOMÜNİKASYON İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
 | B397 | ERDE TELEKOM HABERLEŞME İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
