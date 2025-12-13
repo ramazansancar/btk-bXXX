@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 110/998
+## Kayıt Sayısı: 111/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -235,7 +235,7 @@
 | B228 | E TELEKOM İLETİŞİM HİZ. LTD. ŞTİ. | Kullanılıyor |
 | B229 | BULUTFON TELEKOMÜNİKASYON SAN. VE TİC. AŞ | Kullanılıyor |
 | B230 |  | Boş |
-| B231 | PASİFİK TELEKOM İLETİŞİM SAN. TİC. LTD. ŞTİ. | Kullanılıyor |
+| B231 | PASİFİK TELEKOM İLETİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B232 |  | Boş |
 | B233 |  | Boş |
 | B234 | SOFT TELEKOMÜNİKASYON VE TEKNOLOJİ LİMİTED ŞİRKETİ | Kullanılıyor |
@@ -403,7 +403,7 @@
 | B396 | ORBİT TELEKOMÜNİKASYON İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
 | B397 | ERDE TELEKOM HABERLEŞME İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
 | B398 | BORAN TELEKOM HABERLEŞME İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
-| B399 |  | Boş |
+| B399 | ALLTEL TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B400 |  | Boş |
 | B401 |  | Boş |
 | B402 |  | Boş |
