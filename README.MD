@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 111/998
+## Kayıt Sayısı: 112/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -168,7 +168,7 @@
 | B161 |  | Boş |
 | B162 | VOİCE TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B163 |  | Boş |
-| B164 |  | Boş |
+| B164 | ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
 | B165 |  | Boş |
 | B166 |  | Boş |
 | B167 |  | Boş |
