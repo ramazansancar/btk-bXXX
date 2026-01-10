@@ -56,7 +56,7 @@
 | B049 |  | Boş |
 | B050 | MOBİLİŞİM İLETİŞİM AŞ | Kullanılıyor |
 | B051 | HATNET BİLGİ İLETİŞİM TEKNOLOJİLERİ VE TİC. LTD. ŞTİ. | Kullanılıyor |
-| B052 | 1 NET TELEKOM VE İLETİŞİM HİZM. PAZ. SAN. TİC. LTD. ŞTİ. | Kullanılıyor |
+| B052 | 1 NET TELEKOM VE İLETİŞİM HİZMETLERİ PAZARLAMA SANAYİ TİCARET | Kullanılıyor |
 | B053 |  | Boş |
 | B054 |  | Boş |
 | B055 |  | Boş |
@@ -341,7 +341,7 @@
 | B334 |  | Boş |
 | B335 |  | Boş |
 | B336 |  | Boş |
-| B337 | MOBİLKENT İLETİŞİM HİZ. SAN. TİC. LTD. ŞTİ. | Kullanılıyor |
+| B337 | KAYADELEN İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B338 |  | Boş |
 | B339 |  | Boş |
 | B340 |  | Boş |
