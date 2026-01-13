@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 112/998
+## Kayıt Sayısı: 111/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -258,7 +258,7 @@
 | B251 | FİNK HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B252 |  | Boş |
 | B253 |  | Boş |
-| B254 | MESAJMERKEZİ TELEKOMÜNİKASYON LTD. ŞTİ. | Korunuyor |
+| B254 |  | Boş |
 | B255 |  | Boş |
 | B256 |  | Boş |
 | B257 |  | Boş |
