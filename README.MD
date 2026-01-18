@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 111/998
+## Kayıt Sayısı: 112/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -404,7 +404,7 @@
 | B397 | ERDE TELEKOM HABERLEŞME İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
 | B398 | BORAN TELEKOM HABERLEŞME İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
 | B399 | ALLTEL TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
-| B400 |  | Boş |
+| B400 | SOSYALNET İLETİŞİM VE HABERLEŞME HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
 | B401 |  | Boş |
 | B402 |  | Boş |
 | B403 |  | Boş |
