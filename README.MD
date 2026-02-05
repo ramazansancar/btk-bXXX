@@ -16,7 +16,7 @@
 | B008 |  | Boş |
 | B009 |  | Boş |
 | B011 |  | Boş |
-| B012 | DORUK İLETİŞİM VE OTOMASYON SAN. VE TİC. AŞ | Kullanılıyor |
+| B012 | DORUK İLETİŞİM VE OTOMASYON SAN. VE TİC. AŞ | Korunuyor |
 | B013 |  | Boş |
 | B014 | NETBONE TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B015 | İŞ NET ELEKTRONİK BİLGİ ÜRETİM DAĞITIM TİC. VE İLETİŞİM HİZ. AŞ | Kullanılıyor |
@@ -362,7 +362,7 @@
 | B355 |  | Boş |
 | B356 |  | Boş |
 | B357 |  | Boş |
-| B358 | TELNET TELEKOM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
+| B358 | TELNET TELEKOM HİZMETLERİ ANONİM ŞİRKETİ | Korunuyor |
 | B359 |  | Boş |
 | B360 | MEDİUM TELEKOMÜNİKASYON HİZ. TİC. AŞ | Kullanılıyor |
 | B361 |  | Boş |

@@ -52,7 +52,7 @@
   {
     "prefix": "B012",
     "operator": "DORUK İLETİŞİM VE OTOMASYON SAN. VE TİC. AŞ",
-    "status": "Kullanılıyor"
+    "status": "Korunuyor"
   },
   {
     "prefix": "B013",
@@ -1782,7 +1782,7 @@
   {
     "prefix": "B358",
     "operator": "TELNET TELEKOM HİZMETLERİ ANONİM ŞİRKETİ",
-    "status": "Kullanılıyor"
+    "status": "Korunuyor"
   },
   {
     "prefix": "B359",
