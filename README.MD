@@ -375,7 +375,7 @@
 | B368 |  | Boş |
 | B369 |  | Boş |
 | B370 |  | Boş |
-| B371 | TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
+| B371 | ASTRANET İLETİŞİM VE HABERLEŞME SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
 | B372 | İNTERAKTİF SMS TELEKOMÜNİKASYON HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
 | B373 |  | Boş |
 | B374 |  | Boş |
