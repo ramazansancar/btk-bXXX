@@ -180,7 +180,7 @@
 | B173 | PLUSS TELEKOM İLETİŞİM TİC. AŞ | Kullanılıyor |
 | B174 |  | Boş |
 | B175 |  | Boş |
-| B176 | NETSA YAZILIM LİMİTED ŞİRKETİ | Kullanılıyor |
+| B176 | NETSA YAZILIM LİMİTED ŞİRKETİ | Korunuyor |
 | B177 | AYYILDIZ GSM HABERLEŞME VE BİLGİ TEKNOLOJİ HİZMETLERİ TİCARET | Kullanılıyor |
 | B178 |  | Boş |
 | B179 |  | Boş |
@@ -397,7 +397,7 @@
 | B390 | CCELL İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B391 | SELAM MOBİL TELEKOM ANONİM ŞİRKETİ | Kullanılıyor |
 | B392 |  | Boş |
-| B393 | UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
+| B393 | UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | Korunuyor |
 | B394 |  | Boş |
 | B395 | PRATİK TELEKOMÜNİKASYON BİLİŞİM TİCARET SANAYİ LİMİTED ŞİRKETİ | Kullanılıyor |
 | B396 | ORBİT TELEKOMÜNİKASYON İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
