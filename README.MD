@@ -60,7 +60,7 @@
 | B053 |  | Boş |
 | B054 |  | Boş |
 | B055 |  | Boş |
-| B056 | HAKAY TELEKOMÜNİKASYON TİC. LTD. ŞTİ. | Kullanılıyor |
+| B056 | HAKAY TELEKOMÜNİKASYON TİC. LTD. ŞTİ. | Korunuyor |
 | B057 |  | Boş |
 | B058 | NETGLOBAL TELEKOMÜNİKASYON HİZMETLERİ SAN. VE TİC. LTD. ŞTİ. | Kullanılıyor |
 | B059 |  | Boş |
