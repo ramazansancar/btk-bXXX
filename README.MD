@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 113/998
+## Kayıt Sayısı: 114/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -60,7 +60,7 @@
 | B053 |  | Boş |
 | B054 |  | Boş |
 | B055 |  | Boş |
-| B056 | HAKAY TELEKOMÜNİKASYON TİC. LTD. ŞTİ. | Korunuyor |
+| B056 | HAKAY TELEKOMÜNİKASYON TİC. LTD. ŞTİ. | Kullanılıyor |
 | B057 |  | Boş |
 | B058 | NETGLOBAL TELEKOMÜNİKASYON HİZMETLERİ SAN. VE TİC. LTD. ŞTİ. | Kullanılıyor |
 | B059 |  | Boş |
@@ -168,7 +168,7 @@
 | B161 |  | Boş |
 | B162 | VOİCE TELEKOMÜNİKASYON HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B163 |  | Boş |
-| B164 |  | Boş |
+| B164 | ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
 | B165 |  | Boş |
 | B166 |  | Boş |
 | B167 |  | Boş |
@@ -180,7 +180,7 @@
 | B173 | PLUSS TELEKOM İLETİŞİM TİC. AŞ | Kullanılıyor |
 | B174 |  | Boş |
 | B175 |  | Boş |
-| B176 | NETSA YAZILIM LİMİTED ŞİRKETİ | Korunuyor |
+| B176 | NETSA YAZILIM LİMİTED ŞİRKETİ | Kullanılıyor |
 | B177 | AYYILDIZ GSM HABERLEŞME VE BİLGİ TEKNOLOJİ HİZMETLERİ TİCARET | Kullanılıyor |
 | B178 |  | Boş |
 | B179 |  | Boş |
@@ -375,7 +375,7 @@
 | B368 |  | Boş |
 | B369 |  | Boş |
 | B370 |  | Boş |
-| B371 | ASTRANET İLETİŞİM VE HABERLEŞME SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
+| B371 | TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED | Kullanılıyor |
 | B372 | İNTERAKTİF SMS TELEKOMÜNİKASYON HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
 | B373 |  | Boş |
 | B374 |  | Boş |
@@ -397,7 +397,7 @@
 | B390 | CCELL İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B391 | SELAM MOBİL TELEKOM ANONİM ŞİRKETİ | Kullanılıyor |
 | B392 |  | Boş |
-| B393 | UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | Korunuyor |
+| B393 | UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B394 |  | Boş |
 | B395 | PRATİK TELEKOMÜNİKASYON BİLİŞİM TİCARET SANAYİ LİMİTED ŞİRKETİ | Kullanılıyor |
 | B396 | ORBİT TELEKOMÜNİKASYON İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |

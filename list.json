@@ -272,7 +272,7 @@
   {
     "prefix": "B056",
     "operator": "HAKAY TELEKOMÜNİKASYON TİC. LTD. ŞTİ.",
-    "status": "Korunuyor"
+    "status": "Kullanılıyor"
   },
   {
     "prefix": "B057",
@@ -811,8 +811,8 @@
   },
   {
     "prefix": "B164",
-    "operator": "",
-    "status": "Boş"
+    "operator": "ONLINE TELEKOM TELEKOMUNİKASYON HİZMETLERİ TİCARET LİMİTED",
+    "status": "Kullanılıyor"
   },
   {
     "prefix": "B165",
@@ -872,7 +872,7 @@
   {
     "prefix": "B176",
     "operator": "NETSA YAZILIM LİMİTED ŞİRKETİ",
-    "status": "Korunuyor"
+    "status": "Kullanılıyor"
   },
   {
     "prefix": "B177",
@@ -1846,7 +1846,7 @@
   },
   {
     "prefix": "B371",
-    "operator": "ASTRANET İLETİŞİM VE HABERLEŞME SANAYİ VE TİCARET LİMİTED",
+    "operator": "TELEKOMAT HABERLEŞME VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED",
     "status": "Kullanılıyor"
   },
   {
@@ -1957,7 +1957,7 @@
   {
     "prefix": "B393",
     "operator": "UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ",
-    "status": "Korunuyor"
+    "status": "Kullanılıyor"
   },
   {
     "prefix": "B394",
