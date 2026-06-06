@@ -80,7 +80,7 @@ const processPDF = async () => {
   try {
     response = await axios({
       method: "get",
-      url: "https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf",
+      url: "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/6a788c78-1279-478e-9938-b00e1ba97758.pdf",
       responseType: "stream",
       headers: {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
