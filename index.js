@@ -73,12 +73,13 @@ const jsonFormatter = (row) => {
   return {};
 };
 
+/*
 async function fetchPdfUrl() {
   const pageResponse = await axios({
     method: "get",
     url: "https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari",
     headers: {
-      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*-/*;q=0.8",
       "Accept-Language": "tr,en-US;q=0.9,en;q=0.8",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     },
@@ -90,19 +91,19 @@ async function fetchPdfUrl() {
   if (!match) throw new Error("PDF URL not found on BTK page");
   console.log("Found PDF URL:", match[0]);
   return match[0];
-}
+}*/
 
 // Main function
 const processPDF = async () => {
   // Step 1: Fetch PDF URL from BTK page
-  const pdfUrl = await fetchPdfUrl();
+  //const pdfUrl = await fetchPdfUrl();
 
   // Step 3: Download PDF
   let response;
   try {
     response = await axios({
       method: "get",
-      url: pdfUrl || "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/6a788c78-1279-478e-9938-b00e1ba97758.pdf",
+      url: "https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf", // || pdfUrl || "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/6a788c78-1279-478e-9938-b00e1ba97758.pdf",
       responseType: "stream",
       headers: {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
