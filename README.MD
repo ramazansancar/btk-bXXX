@@ -26,7 +26,7 @@
 | B019 | TTNET ANONİM ŞİRKETİ | Kullanılıyor |
 | B020 | TURKNET İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B021 | NETGSM İLETİŞİM VE BİLGİ TEKNOLOJİLERİ AŞ | Kullanılıyor |
-| B022 | TTM TELEKOMÜNİKASYON VE İLETİŞİM HİZMETLERİ AŞ | Kullanılıyor |
+| B022 | TTM TELEKOMÜNİKASYON VE İLETİŞİM HİZMETLERİ AŞ | Korunuyor |
 | B023 | CONNECTİST HABERLEŞME VE ALTYAPI HİZMETLERİ AŞ | Kullanılıyor |
 | B024 | KAREL İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B025 | İKON İLETİŞİM TELEKOMİNİKASYON AŞ | Kullanılıyor |
