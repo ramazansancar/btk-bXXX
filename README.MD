@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 114/998
+## Kayıt Sayısı: 115/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -360,7 +360,7 @@
 | B353 | DİNAMİK TELEKOMÜNİKASYON BİLİŞİM SİSTEMLERİ SANAYİ VE TİCARET | Kullanılıyor |
 | B354 |  | Boş |
 | B355 |  | Boş |
-| B356 |  | Boş |
+| B356 | USLUCAN TELEKOM HABERLEŞME VE İLETİŞİM ANONİM ŞİRKETİ | Kullanılıyor |
 | B357 |  | Boş |
 | B358 | TELNET TELEKOM HİZMETLERİ ANONİM ŞİRKETİ | Korunuyor |
 | B359 |  | Boş |
