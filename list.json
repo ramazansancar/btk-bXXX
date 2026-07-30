@@ -22,7 +22,7 @@
   {
     "prefix": "B005",
     "operator": "FİXNET TELEKOMÜNİKASYON LTD. ŞTİ.",
-    "status": "Kullanılıyor"
+    "status": "Korunuyor"
   },
   {
     "prefix": "B006",
@@ -1757,7 +1757,7 @@
   {
     "prefix": "B353",
     "operator": "DİNAMİK TELEKOMÜNİKASYON BİLİŞİM SİSTEMLERİ SANAYİ VE TİCARET",
-    "status": "Kullanılıyor"
+    "status": "Korunuyor"
   },
   {
     "prefix": "B354",
@@ -1781,8 +1781,8 @@
   },
   {
     "prefix": "B358",
-    "operator": "TELNET TELEKOM HİZMETLERİ ANONİM ŞİRKETİ",
-    "status": "Korunuyor"
+    "operator": "",
+    "status": "Boş"
   },
   {
     "prefix": "B359",
@@ -1947,7 +1947,7 @@
   {
     "prefix": "B391",
     "operator": "SELAM MOBİL TELEKOM ANONİM ŞİRKETİ",
-    "status": "Kullanılıyor"
+    "status": "Korunuyor"
   },
   {
     "prefix": "B392",

@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 115/998
+## Kayıt Sayısı: 114/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -10,7 +10,7 @@
 | B002 | TURKCELL İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B003 | VODAFONE TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B004 |  | Boş |
-| B005 | FİXNET TELEKOMÜNİKASYON LTD. ŞTİ. | Kullanılıyor |
+| B005 | FİXNET TELEKOMÜNİKASYON LTD. ŞTİ. | Korunuyor |
 | B006 |  | Boş |
 | B007 |  | Boş |
 | B008 |  | Boş |
@@ -357,12 +357,12 @@
 | B350 |  | Boş |
 | B351 |  | Boş |
 | B352 |  | Boş |
-| B353 | DİNAMİK TELEKOMÜNİKASYON BİLİŞİM SİSTEMLERİ SANAYİ VE TİCARET | Kullanılıyor |
+| B353 | DİNAMİK TELEKOMÜNİKASYON BİLİŞİM SİSTEMLERİ SANAYİ VE TİCARET | Korunuyor |
 | B354 |  | Boş |
 | B355 |  | Boş |
 | B356 | USLUCAN TELEKOM HABERLEŞME VE İLETİŞİM ANONİM ŞİRKETİ | Kullanılıyor |
 | B357 |  | Boş |
-| B358 | TELNET TELEKOM HİZMETLERİ ANONİM ŞİRKETİ | Korunuyor |
+| B358 |  | Boş |
 | B359 |  | Boş |
 | B360 | MEDİUM TELEKOMÜNİKASYON HİZ. TİC. AŞ | Kullanılıyor |
 | B361 |  | Boş |
@@ -395,7 +395,7 @@
 | B388 |  | Boş |
 | B389 | TURKEYSMS BİLİŞİM VE İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B390 | CCELL İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
-| B391 | SELAM MOBİL TELEKOM ANONİM ŞİRKETİ | Kullanılıyor |
+| B391 | SELAM MOBİL TELEKOM ANONİM ŞİRKETİ | Korunuyor |
 | B392 |  | Boş |
 | B393 | UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | Korunuyor |
 | B394 |  | Boş |
