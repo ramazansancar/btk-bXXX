@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 114/998
+## Kayıt Sayısı: 115/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
 
@@ -315,7 +315,7 @@
 | B308 |  | Boş |
 | B309 |  | Boş |
 | B310 |  | Boş |
-| B311 |  | Boş |
+| B311 | ZETA TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B312 |  | Boş |
 | B313 |  | Boş |
 | B314 | ADNET İNTERNET VE İLETİŞİM HİZ. TİC. LTD. ŞTİ. | Kullanılıyor |
