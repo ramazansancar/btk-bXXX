@@ -76,38 +76,41 @@ const jsonFormatter = (row) => {
   return {};
 };
 
-/*
+const PAGE_URL = "https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari";
+// Tried in order when the URL from the page is missing or fails
+const FALLBACK_PDF_URLS = [
+  "https://www.btk.gov.tr/s3/web-btk-site/uploads/ntsfiles/BXXX.pdf",
+  "https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf",
+  "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/6a788c78-1279-478e-9938-b00e1ba97758.pdf",
+];
+
 async function fetchPdfUrl() {
   const pageResponse = await axios({
     method: "get",
-    url: "https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari",
+    url: PAGE_URL,
+    timeout: REQUEST_TIMEOUT_MS,
     headers: {
-      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*-/*;q=0.8",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
       "Accept-Language": "tr,en-US;q=0.9,en;q=0.8",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
     },
     ...allowLegacyRenegotiation,
   });
 
-  const html = pageResponse.data;
-  const match = html.match(/https:\/\/[^"'\s]+\.pdf/i);
-  if (!match) throw new Error("PDF URL not found on BTK page");
-  console.log("Found PDF URL:", match[0]);
-  return match[0];
-}*/
+  const urls = String(pageResponse.data).match(/https?:\/\/[^"'\s<>\\]+\.pdf/gi) || [];
+  // Page may contain other PDFs; prefer the BXXX routing-code file
+  const url = urls.find((u) => /\/BXXX\.pdf$/i.test(u)) || urls[0];
+  if (!url) throw new Error("PDF URL not found on BTK page");
+  return url;
+}
 
-// Main function
-const processPDF = async () => {
-  // Step 1: Fetch PDF URL from BTK page
-  //const pdfUrl = await fetchPdfUrl();
-
-  // Step 3: Download PDF
+async function downloadPdf(url, pdfPath) {
   let response;
   try {
     response = await axios({
       method: "get",
       timeout: REQUEST_TIMEOUT_MS,
-      url: "https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf", // || pdfUrl || "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/6a788c78-1279-478e-9938-b00e1ba97758.pdf",
+      url,
       responseType: "stream",
       headers: {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
@@ -135,9 +138,45 @@ const processPDF = async () => {
     throw new Error(`Error downloading PDF: ${err?.response?.status ?? ""} ${err?.message}`.trim());
   }
 
-  const pdfPath = "./BXXX.pdf";
   await pipeline(response.data, fs.createWriteStream(pdfPath));
-  console.log("Downloaded PDF file.");
+
+  // Server may return an HTML error page with 200; check the PDF magic bytes
+  const fd = fs.openSync(pdfPath, "r");
+  const magic = Buffer.alloc(5);
+  fs.readSync(fd, magic, 0, 5, 0);
+  fs.closeSync(fd);
+  if (magic.toString("latin1") !== "%PDF-") throw new Error("Downloaded file is not a PDF");
+}
+
+// Main function
+const processPDF = async () => {
+  // Step 1: Fetch PDF URL from BTK page
+  const candidates = [];
+  try {
+    const pageUrl = await fetchPdfUrl();
+    console.log("Found PDF URL:", pageUrl);
+    candidates.push(pageUrl);
+  } catch (err) {
+    console.warn(`Could not get PDF URL from page: ${err?.message}`);
+  }
+  for (const url of FALLBACK_PDF_URLS) {
+    if (!candidates.includes(url)) candidates.push(url);
+  }
+
+  // Step 3: Download PDF, trying each candidate URL in order
+  const pdfPath = "./BXXX.pdf";
+  let pdfUrl;
+  for (const url of candidates) {
+    try {
+      await downloadPdf(url, pdfPath);
+      pdfUrl = url;
+      break;
+    } catch (err) {
+      console.warn(`${err?.message} (${url})`);
+    }
+  }
+  if (!pdfUrl) throw new Error("PDF could not be downloaded from any URL");
+  console.log("Downloaded PDF file:", pdfUrl);
 
   // Step 4: Initialize markdown file
   const mdPath = "./README.MD";
@@ -145,7 +184,7 @@ const processPDF = async () => {
   await appendToFile(mdPath,`# Numara Taşınabilirliği Yönlendirme Kodları\n\n`);
   //await appendToFile(mdPath, `## Son Güncellenme Tarihi: \n\n`);
   await appendToFile(mdPath, "## Kayıt Sayısı: \n\n");
-  await appendToFile(mdPath, "### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>\n\n");
+  await appendToFile(mdPath, `### Kaynak: <${PAGE_URL}> | <${pdfUrl}>\n\n`);
   await appendToFile(mdPath,"| Önek | İşletmeci | Durum |\n| --- | --- | --- |\n");
 
   let rows = {}; // To store rows from the PDF
