@@ -51,8 +51,8 @@
   },
   {
     "prefix": "B012",
-    "operator": "DORUK İLETİŞİM VE OTOMASYON SAN. VE TİC. AŞ",
-    "status": "Korunuyor"
+    "operator": "",
+    "status": "Boş"
   },
   {
     "prefix": "B013",
@@ -1757,7 +1757,7 @@
   {
     "prefix": "B353",
     "operator": "DİNAMİK TELEKOMÜNİKASYON BİLİŞİM SİSTEMLERİ SANAYİ VE TİCARET",
-    "status": "Korunuyor"
+    "status": "Kullanılıyor"
   },
   {
     "prefix": "B354",

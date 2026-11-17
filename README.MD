@@ -1,8 +1,8 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 115/998
+## Kayıt Sayısı: 114/998
 
-### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf>
+### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/s3/web-btk-site/uploads/ntsfiles/BXXX.pdf>
 
 | Önek | İşletmeci | Durum |
 | --- | --- | --- |
@@ -16,7 +16,7 @@
 | B008 |  | Boş |
 | B009 |  | Boş |
 | B011 |  | Boş |
-| B012 | DORUK İLETİŞİM VE OTOMASYON SAN. VE TİC. AŞ | Korunuyor |
+| B012 |  | Boş |
 | B013 |  | Boş |
 | B014 | NETBONE TELEKOMÜNİKASYON ANONİM ŞİRKETİ | Kullanılıyor |
 | B015 | İŞ NET ELEKTRONİK BİLGİ ÜRETİM DAĞITIM TİC. VE İLETİŞİM HİZ. AŞ | Kullanılıyor |
@@ -357,7 +357,7 @@
 | B350 |  | Boş |
 | B351 |  | Boş |
 | B352 |  | Boş |
-| B353 | DİNAMİK TELEKOMÜNİKASYON BİLİŞİM SİSTEMLERİ SANAYİ VE TİCARET | Korunuyor |
+| B353 | DİNAMİK TELEKOMÜNİKASYON BİLİŞİM SİSTEMLERİ SANAYİ VE TİCARET | Kullanılıyor |
 | B354 |  | Boş |
 | B355 |  | Boş |
 | B356 | USLUCAN TELEKOM HABERLEŞME VE İLETİŞİM ANONİM ŞİRKETİ | Kullanılıyor |
