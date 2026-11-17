@@ -191,8 +191,9 @@ const processPDF = async () => {
 
   // Step 5: Parse the PDF and accumulate rows
   await new Promise((resolve, reject) => {
+    let writes = Promise.resolve(); // Keep page writes ordered and awaitable
     new PdfReader().parseFileItems(pdfPath, function (err, item) {
-      if (err) reject(err);
+      if (err) return reject(err);
 
       if (!item || item?.page) {
         // End of page, print rows
@@ -204,11 +205,14 @@ const processPDF = async () => {
           });
 
         if (rowStrings.length > 0) {
-          appendToFile(mdPath, rowStrings.join("")); // Write all rows at once
+          const chunk = rowStrings.join(""); // Write all rows at once
+          writes = writes.then(() => appendToFile(mdPath, chunk));
         }
 
         rows = {}; // Clear rows for the next page
         if(item?.page) console.log("PAGE:", item?.page);
+        // No item means end of file: resolve once all writes are done
+        if (!item) writes.then(resolve, reject);
       } else if (item.text) {
         if(item.text.includes(new Date().getFullYear().toString()) || item.text.includes(new Date().getFullYear() - 1)) {
           lastUpdatedDate = item.text;
@@ -233,9 +237,6 @@ const processPDF = async () => {
         (rows[item.y] = rows[item.y] || []).push(item.text);
       }
     });
-
-    // Slight delay to ensure parsing is complete
-    setTimeout(resolve, 1500);
   });
 
   // Step 6: Sort lines and update metadata in the markdown file
