@@ -4,6 +4,9 @@ import axios from "axios";
 import http from "http";
 import https from "https";
 import crypto from "crypto";
+import { pipeline } from "stream/promises";
+
+const REQUEST_TIMEOUT_MS = 60_000;
 
 // Disable SSL certificate validation
 const allowLegacyRenegotiation = {
@@ -103,6 +106,7 @@ const processPDF = async () => {
   try {
     response = await axios({
       method: "get",
+      timeout: REQUEST_TIMEOUT_MS,
       url: "https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf", // || pdfUrl || "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/6a788c78-1279-478e-9938-b00e1ba97758.pdf",
       responseType: "stream",
       headers: {
@@ -124,19 +128,15 @@ const processPDF = async () => {
         "sec-ch-ua-platform": '"Windows"',
       },
       ...allowLegacyRenegotiation,
-    })
-    .catch((err) => {
-      console.error("Error downloading PDF:", err?.response?.status, err?.message, err?.response?.data, err);
     });
   } catch (err) {
-    console.error("Error downloading PDF:", err?.response?.status, err?.message, err?.response?.data, err);
-    return;
+    // Unconsumed error stream keeps the keep-alive socket open; destroy it so the process can exit
+    err?.response?.data?.destroy?.();
+    throw new Error(`Error downloading PDF: ${err?.response?.status ?? ""} ${err?.message}`.trim());
   }
 
   const pdfPath = "./BXXX.pdf";
-  response.data.pipe(fs.createWriteStream(pdfPath));
-
-  await new Promise((resolve) => response.data.on("end", resolve));
+  await pipeline(response.data, fs.createWriteStream(pdfPath));
   console.log("Downloaded PDF file.");
 
   // Step 4: Initialize markdown file
@@ -232,4 +232,13 @@ const processPDF = async () => {
 }
 
 // Run the process
-processPDF().catch((err) => console.error(err));
+processPDF()
+  .catch((err) => {
+    console.error(err);
+    process.exitCode = 1;
+  })
+  .finally(() => {
+    // Close keep-alive sockets so a lingering connection can't keep the job running for hours
+    allowLegacyRenegotiation.httpAgent.destroy();
+    allowLegacyRenegotiation.httpsAgent.destroy();
+  });
