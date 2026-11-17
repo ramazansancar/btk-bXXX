@@ -270,6 +270,14 @@ const processPDF = async () => {
   console.log("Markdown and list.json file created and updated successfully.");
 }
 
+// Watchdog: if anything still hangs, fail with exit 1 so the run is marked
+// "failure" (and notifies) instead of being cancelled by the job timeout
+const WATCHDOG_MS = 5 * 60_000;
+setTimeout(() => {
+  console.error(`Watchdog: process still running after ${WATCHDOG_MS / 1000}s, exiting`);
+  process.exit(1);
+}, WATCHDOG_MS).unref();
+
 // Run the process
 processPDF()
   .catch((err) => {
