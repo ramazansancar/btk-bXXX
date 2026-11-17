@@ -81,7 +81,6 @@ const PAGE_URL = "https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodl
 const FALLBACK_PDF_URLS = [
   "https://www.btk.gov.tr/s3/web-btk-site/uploads/ntsfiles/BXXX.pdf",
   "https://www.btk.gov.tr/uploads/ntsfiles/BXXX.pdf",
-  "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/6a788c78-1279-478e-9938-b00e1ba97758.pdf",
 ];
 
 async function fetchPdfUrl() {
