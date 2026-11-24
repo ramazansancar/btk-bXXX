@@ -101,8 +101,8 @@
   },
   {
     "prefix": "B022",
-    "operator": "TTM TELEKOMÜNİKASYON VE İLETİŞİM HİZMETLERİ AŞ",
-    "status": "Korunuyor"
+    "operator": "",
+    "status": "Boş"
   },
   {
     "prefix": "B023",
@@ -271,8 +271,8 @@
   },
   {
     "prefix": "B056",
-    "operator": "HAKAY TELEKOMÜNİKASYON TİC. LTD. ŞTİ.",
-    "status": "Korunuyor"
+    "operator": "",
+    "status": "Boş"
   },
   {
     "prefix": "B057",
@@ -871,8 +871,8 @@
   },
   {
     "prefix": "B176",
-    "operator": "NETSA YAZILIM LİMİTED ŞİRKETİ",
-    "status": "Korunuyor"
+    "operator": "",
+    "status": "Boş"
   },
   {
     "prefix": "B177",
@@ -1402,7 +1402,7 @@
   {
     "prefix": "B282",
     "operator": "TEKNOMOBİL UYDU HABERLEŞME ANONİM ŞİRKETİ",
-    "status": "Kullanılıyor"
+    "status": "Korunuyor"
   },
   {
     "prefix": "B283",
@@ -1916,8 +1916,8 @@
   },
   {
     "prefix": "B385",
-    "operator": "DURU İNTERNET VE BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED",
-    "status": "Korunuyor"
+    "operator": "",
+    "status": "Boş"
   },
   {
     "prefix": "B386",
@@ -1956,8 +1956,8 @@
   },
   {
     "prefix": "B393",
-    "operator": "UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ",
-    "status": "Korunuyor"
+    "operator": "",
+    "status": "Boş"
   },
   {
     "prefix": "B394",

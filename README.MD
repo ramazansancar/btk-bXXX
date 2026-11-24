@@ -1,6 +1,6 @@
 # Numara Taşınabilirliği Yönlendirme Kodları
 
-## Kayıt Sayısı: 114/998
+## Kayıt Sayısı: 109/998
 
 ### Kaynak: <https://www.btk.gov.tr/numara-tasinabilirligi-yonlendirme-kodlari> | <https://www.btk.gov.tr/s3/web-btk-site/uploads/ntsfiles/BXXX.pdf>
 
@@ -26,7 +26,7 @@
 | B019 | TTNET ANONİM ŞİRKETİ | Kullanılıyor |
 | B020 | TURKNET İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B021 | NETGSM İLETİŞİM VE BİLGİ TEKNOLOJİLERİ AŞ | Kullanılıyor |
-| B022 | TTM TELEKOMÜNİKASYON VE İLETİŞİM HİZMETLERİ AŞ | Korunuyor |
+| B022 |  | Boş |
 | B023 | CONNECTİST HABERLEŞME VE ALTYAPI HİZMETLERİ AŞ | Kullanılıyor |
 | B024 | KAREL İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B025 | İKON İLETİŞİM TELEKOMİNİKASYON AŞ | Kullanılıyor |
@@ -60,7 +60,7 @@
 | B053 |  | Boş |
 | B054 |  | Boş |
 | B055 |  | Boş |
-| B056 | HAKAY TELEKOMÜNİKASYON TİC. LTD. ŞTİ. | Korunuyor |
+| B056 |  | Boş |
 | B057 |  | Boş |
 | B058 | NETGLOBAL TELEKOMÜNİKASYON HİZMETLERİ SAN. VE TİC. LTD. ŞTİ. | Kullanılıyor |
 | B059 |  | Boş |
@@ -180,7 +180,7 @@
 | B173 | PLUSS TELEKOM İLETİŞİM TİC. AŞ | Kullanılıyor |
 | B174 |  | Boş |
 | B175 |  | Boş |
-| B176 | NETSA YAZILIM LİMİTED ŞİRKETİ | Korunuyor |
+| B176 |  | Boş |
 | B177 | AYYILDIZ GSM HABERLEŞME VE BİLGİ TEKNOLOJİ HİZMETLERİ TİCARET | Kullanılıyor |
 | B178 |  | Boş |
 | B179 |  | Boş |
@@ -286,7 +286,7 @@
 | B279 |  | Boş |
 | B280 |  | Boş |
 | B281 |  | Boş |
-| B282 | TEKNOMOBİL UYDU HABERLEŞME ANONİM ŞİRKETİ | Kullanılıyor |
+| B282 | TEKNOMOBİL UYDU HABERLEŞME ANONİM ŞİRKETİ | Korunuyor |
 | B283 |  | Boş |
 | B284 |  | Boş |
 | B285 |  | Boş |
@@ -389,7 +389,7 @@
 | B382 |  | Boş |
 | B383 |  | Boş |
 | B384 |  | Boş |
-| B385 | DURU İNTERNET VE BİLİŞİM TEKNOLOJİLERİ SANAYİ TİCARET LİMİTED | Korunuyor |
+| B385 |  | Boş |
 | B386 |  | Boş |
 | B387 | TELKOTÜRK İLETİŞİM HİZMETLERİ ANONİM ŞİRKETİ | Kullanılıyor |
 | B388 |  | Boş |
@@ -397,7 +397,7 @@
 | B390 | CCELL İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ | Kullanılıyor |
 | B391 | SELAM MOBİL TELEKOM ANONİM ŞİRKETİ | Korunuyor |
 | B392 |  | Boş |
-| B393 | UZAY BİLİŞİM TELEKOMÜNİKASYON TİCARET LİMİTED ŞİRKETİ | Korunuyor |
+| B393 |  | Boş |
 | B394 |  | Boş |
 | B395 | PRATİK TELEKOMÜNİKASYON BİLİŞİM TİCARET SANAYİ LİMİTED ŞİRKETİ | Kullanılıyor |
 | B396 | ORBİT TELEKOMÜNİKASYON İLETİŞİM SANAYİ VE TİCARET LİMİTED | Kullanılıyor |
